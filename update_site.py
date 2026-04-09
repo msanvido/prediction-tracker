@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 import os
 
-DATA_FILE = os.path.expanduser('~/prediction-tracker/docs/data.json')
+DATA_FILE = os.path.expanduser('~/prediction-tracker/data.json')
 
 def search_arxiv(query, max_results=3):
     cmd = f'curl -s "https://export.arxiv.org/api/query?search_query=all:{query.replace(" ", "+")}&max_results={max_results}&sortBy=submittedDate&sortOrder=descending"'
