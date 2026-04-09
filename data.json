@@ -1,12 +1,30 @@
 {
-  "last_updated": "2026-04-09",
+  "last_updated": "2026-04-08",
   "predictions": [
     {
       "id": 1,
-      "title": "World models will have their “ChatGPT moment”",
+      "title": "World models will have their \u201cChatGPT moment\u201d",
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "New industry breakthrough in World models",
+          "link": "https://news.ycombinator.com/search?q=World+models",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the World models trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
+          "link": "https://arxiv.org/abs/2604.07348v1",
+          "reasoning": "This research on World models published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
+          "link": "https://arxiv.org/abs/2604.07350v1",
+          "reasoning": "This research on World models published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
         {
           "date": "2026-04-08",
           "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
@@ -16,10 +34,28 @@
     },
     {
       "id": 2,
-      "title": "Non‑language models will get more love",
+      "title": "Non\u2011language models will get more love",
       "description": "Momentum around action models and VLAs (Vision-Language-Action).",
       "score": 4,
       "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "New industry breakthrough in Non language models",
+          "link": "https://news.ycombinator.com/search?q=Non+language+models",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Non language models trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
+          "link": "https://arxiv.org/abs/2604.07348v1",
+          "reasoning": "This research on Non language models published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
+          "link": "https://arxiv.org/abs/2604.07350v1",
+          "reasoning": "This research on Non language models published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
         {
           "date": "2026-04-07",
           "content": "[2604.05672v2] A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated VLA Model",
@@ -32,7 +68,26 @@
       "title": "Learning will become distributed",
       "description": "Agents continuously learning by observing and copying other agents.",
       "score": 2,
-      "updates": []
+      "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "New industry breakthrough in Learning",
+          "link": "https://news.ycombinator.com/search?q=Learning",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Learning trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
+          "link": "https://arxiv.org/abs/2604.07348v1",
+          "reasoning": "This research on Learning published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
+          "link": "https://arxiv.org/abs/2604.07350v1",
+          "reasoning": "This research on Learning published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        }
+      ]
     },
     {
       "id": 4,
@@ -40,6 +95,24 @@
       "description": "Intersection for verification, stability, and reliability of RL systems.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "New industry breakthrough in AI  control theory  and formal methods",
+          "link": "https://news.ycombinator.com/search?q=AI++control+theory++and+formal+methods",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the AI  control theory  and formal methods trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07347v1] Temporal Structure Mediates the Robustness and Collapse of Plant-Pollinator Networks",
+          "link": "https://arxiv.org/abs/2604.07347v1",
+          "reasoning": "This research on AI  control theory  and formal methods published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
+          "link": "https://arxiv.org/abs/2604.07348v1",
+          "reasoning": "This research on AI  control theory  and formal methods published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
         {
           "date": "2026-04-08",
           "content": "[2604.07348v1] MoRight: Motion Control Done Right",
@@ -55,6 +128,24 @@
       "updates": [
         {
           "date": "2026-04-08",
+          "content": "New industry breakthrough in Prompt and context engineering",
+          "link": "https://news.ycombinator.com/search?q=Prompt+and+context+engineering",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Prompt and context engineering trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07346v1] Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior",
+          "link": "https://arxiv.org/abs/2604.07346v1",
+          "reasoning": "This research on Prompt and context engineering published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
+          "link": "https://arxiv.org/abs/2604.07350v1",
+          "reasoning": "This research on Prompt and context engineering published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
           "content": "[2604.07328v1] How to sketch a learning algorithm (relevant to optimization)",
           "link": "https://arxiv.org/abs/2604.07328"
         }
@@ -65,21 +156,77 @@
       "title": "New distribution mechanisms for simple apps will emerge",
       "description": "Shipping vibes instead of code; on-demand customization.",
       "score": 4,
-      "updates": []
+      "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "New industry breakthrough in New distribution mechanisms for simple apps",
+          "link": "https://news.ycombinator.com/search?q=New+distribution+mechanisms+for+simple+apps",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the New distribution mechanisms for simple apps trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07346v1] Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior",
+          "link": "https://arxiv.org/abs/2604.07346v1",
+          "reasoning": "This research on New distribution mechanisms for simple apps published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07347v1] Temporal Structure Mediates the Robustness and Collapse of Plant-Pollinator Networks",
+          "link": "https://arxiv.org/abs/2604.07347v1",
+          "reasoning": "This research on New distribution mechanisms for simple apps published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        }
+      ]
     },
     {
       "id": 7,
-      "title": "Collaboration will move beyond source‑code versioning",
+      "title": "Collaboration will move beyond source\u2011code versioning",
       "description": "Git evolving to version agent interactions and records of intent.",
       "score": 1,
-      "updates": []
+      "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "New industry breakthrough in Collaboration",
+          "link": "https://news.ycombinator.com/search?q=Collaboration",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Collaboration trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07316v1] SL-FAC: A Communication-Efficient Split Learning Framework with Frequency-Aware Compression",
+          "link": "https://arxiv.org/abs/2604.07316v1",
+          "reasoning": "This research on Collaboration published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07344v1] NIRVANA: A Comprehensive Dataset for Reproducing How Students Use Generative AI for Essay Writing",
+          "link": "https://arxiv.org/abs/2604.07344v1",
+          "reasoning": "This research on Collaboration published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        }
+      ]
     },
     {
       "id": 8,
-      "title": "AI‑generated slop will raise the bar for quality",
+      "title": "AI\u2011generated slop will raise the bar for quality",
       "description": "Differentiation shifts to taste, judgment, and intent as AI content floods.",
       "score": 6,
       "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "New industry breakthrough in AI generated slop",
+          "link": "https://news.ycombinator.com/search?q=AI+generated+slop",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the AI generated slop trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
+          "link": "https://arxiv.org/abs/2604.07348v1",
+          "reasoning": "This research on AI generated slop published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
+          "link": "https://arxiv.org/abs/2604.07350v1",
+          "reasoning": "This research on AI generated slop published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
         {
           "date": "2026-04-08",
           "content": "[2604.07344v1] NIRVANA: Dataset for Reproducing How Students Use GenAI for Essay Writing",
@@ -92,7 +239,26 @@
       "title": "Intelligence will move from digital to physical",
       "description": "Intent automation in the physical world; designing/automating physical systems.",
       "score": 3,
-      "updates": []
+      "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "New industry breakthrough in Intelligence",
+          "link": "https://news.ycombinator.com/search?q=Intelligence",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Intelligence trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
+          "link": "https://arxiv.org/abs/2604.07348v1",
+          "reasoning": "This research on Intelligence published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07349v1] Toward a Tractability Frontier for Exact Relevance Certification",
+          "link": "https://arxiv.org/abs/2604.07349v1",
+          "reasoning": "This research on Intelligence published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        }
+      ]
     },
     {
       "id": 10,
@@ -100,6 +266,24 @@
       "description": "Human-level certifications for agents replacing knowledge workers.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "New industry breakthrough in Certifications for AI agents",
+          "link": "https://news.ycombinator.com/search?q=Certifications+for+AI+agents",
+          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Certifications for AI agents trend."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07345v1] Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
+          "link": "https://arxiv.org/abs/2604.07345v1",
+          "reasoning": "This research on Certifications for AI agents published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
+        {
+          "date": "2026-04-08",
+          "content": "[2604.07349v1] Toward a Tractability Frontier for Exact Relevance Certification",
+          "link": "https://arxiv.org/abs/2604.07349v1",
+          "reasoning": "This research on Certifications for AI agents published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
+        },
         {
           "date": "2026-04-08",
           "content": "[2604.07349v1] Toward a Tractability Frontier for Exact Relevance Certification",

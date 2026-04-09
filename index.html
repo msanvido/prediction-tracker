@@ -97,22 +97,25 @@
                             </div>
                         </div>
 
-                        <div class="space-y-4">
+                        <div class="space-y-6">
                             <h3 class="text-xs font-bold text-slate-900 uppercase tracking-widest flex items-center">
                                 <svg class="w-3 h-3 mr-2 text-blue-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z"/></svg>
                                 Recent Evidence
                             </h3>
                             ${p.updates.length > 0 ? 
-                                `<ul class="space-y-3">
+                                `<div class="space-y-6">
                                     ${p.updates.map(u => `
-                                        <li class="group">
+                                        <div class="group border-l-2 border-slate-100 pl-4 hover:border-blue-400 transition-colors">
                                             <a href="${u.link}" target="_blank" class="block">
-                                                <span class="text-[10px] font-bold text-slate-400 block mb-1">${u.date}</span>
-                                                <span class="text-sm text-slate-700 group-hover:text-blue-600 transition-colors line-clamp-2 leading-snug">${u.content}</span>
+                                                <span class="text-[10px] font-bold text-slate-400 block mb-1 uppercase">${u.date}</span>
+                                                <span class="text-sm font-semibold text-slate-800 group-hover:text-blue-600 transition-colors block mb-1 leading-snug">${u.content}</span>
+                                                <p class="text-xs text-slate-500 leading-relaxed italic">
+                                                    ${u.reasoning || 'Analyzing significance...'}
+                                                </p>
                                             </a>
-                                        </li>
+                                        </div>
                                     `).join('')}
-                                </ul>` :
+                                </div>` :
                                 '<p class="text-sm text-slate-400 italic">Continuous monitoring for progress...</p>'
                             }
                         </div>
