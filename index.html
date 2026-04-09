@@ -3,42 +3,121 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2026 Prediction Tracker</title>
-    <link rel="stylesheet" href="style.css">
+    <title>2026 Predictions Tracker | Marco Sanvido</title>
+    <!-- Inter font and Tailwind for a modern look -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .prediction-card { transition: transform 0.2s ease, box-shadow 0.2s ease; }
+        .prediction-card:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); }
+        .score-bar { height: 8px; border-radius: 4px; background: #e2e8f0; overflow: hidden; }
+        .score-fill { height: 100%; border-radius: 4px; transition: width 1s ease-in-out; }
+    </style>
 </head>
-<body>
-    <header>
-        <h1>2026 Prediction Tracker</h1>
-        <p>Monitoring the progress of Marco Sanvido's 2026 predictions.</p>
-        <p class="updated">Last Updated: <span id="last-updated"></span></p>
-    </header>
-    <main id="predictions-container">
-        <!-- Predictions will be injected here -->
-    </main>
-    <footer>
-        <p>Automated tracker by Hermes Agent | <a href="https://www.linkedin.com/pulse/2026-some-hopes-predictions-marco-sanvido-ccwdc/">Original Article</a></p>
-    </footer>
+<body class="bg-slate-50 text-slate-900 antialiased min-h-screen">
+    <div class="max-w-5xl mx-auto px-4 py-12">
+        <header class="text-center mb-16">
+            <h1 class="text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight mb-4">
+                2026 Prediction Tracker
+            </h1>
+            <p class="text-lg text-slate-600 max-w-2xl mx-auto mb-6">
+                Monitoring the progress of Marco Sanvido's 2026 AI and technology predictions with daily automated research.
+            </p>
+            <div class="inline-flex items-center space-x-2 bg-white px-4 py-2 rounded-full border border-slate-200 shadow-sm">
+                <span class="relative flex h-3 w-3">
+                    <span class="animate-ping absolute inline-flex h-100% w-100% rounded-full bg-green-400 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-3 w-3 bg-green-500"></span>
+                </span>
+                <span class="text-sm font-medium text-slate-500">Last Updated: <span id="last-updated" class="text-slate-800">...</span></span>
+            </div>
+        </header>
+
+        <main id="predictions-container" class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <!-- Loading state -->
+            <div class="col-span-full text-center py-12">
+                <div class="animate-pulse flex flex-col items-center">
+                    <div class="h-8 w-48 bg-slate-200 rounded mb-4"></div>
+                    <div class="h-4 w-64 bg-slate-200 rounded"></div>
+                </div>
+            </div>
+        </main>
+
+        <footer class="mt-20 pt-8 border-t border-slate-200 text-center text-slate-500 text-sm">
+            <p>© 2026 Automated Tracker by Hermes Agent</p>
+            <div class="mt-2 space-x-4">
+                <a href="https://www.linkedin.com/pulse/2026-some-hopes-predictions-marco-sanvido-ccwdc/" class="hover:text-blue-600 transition-colors">Original Article</a>
+                <span class="text-slate-300">•</span>
+                <a href="https://github.com/msanvido/prediction-tracker" class="hover:text-blue-600 transition-colors">GitHub Repo</a>
+            </div>
+        </footer>
+    </div>
+
     <script>
+        const getScoreColor = (score) => {
+            if (score <= 3) return 'bg-rose-500';
+            if (score <= 6) return 'bg-amber-500';
+            if (score <= 8) return 'bg-emerald-500';
+            return 'bg-blue-600';
+        };
+
         fetch('data.json')
             .then(response => response.json())
             .then(data => {
                 document.getElementById('last-updated').textContent = data.last_updated;
                 const container = document.getElementById('predictions-container');
+                container.innerHTML = ''; // Clear loading state
+
                 data.predictions.forEach(p => {
-                    const section = document.createElement('section');
-                    section.className = 'prediction';
-                    section.innerHTML = `
-                        <h2>${p.id}. ${p.title}</h2>
-                        <p class="desc">${p.description}</p>
-                        <div class="updates">
-                            <h3>Latest Progress</h3>
+                    const card = document.createElement('div');
+                    card.className = 'prediction-card bg-white rounded-2xl p-8 border border-slate-200 shadow-sm flex flex-col h-full';
+                    
+                    const scorePercent = (p.score || 0) * 10;
+                    const scoreColor = getScoreColor(p.score || 0);
+
+                    card.innerHTML = `
+                        <div class="flex justify-between items-start mb-4">
+                            <span class="text-xs font-bold text-slate-400 uppercase tracking-wider">Prediction #${p.id}</span>
+                            <div class="text-right">
+                                <span class="text-2xl font-bold text-slate-900">${p.score}/10</span>
+                                <p class="text-[10px] text-slate-400 font-bold uppercase tracking-tighter">Likelihood</p>
+                            </div>
+                        </div>
+                        
+                        <h2 class="text-xl font-bold text-slate-900 mb-3 leading-tight">${p.title}</h2>
+                        <p class="text-slate-600 text-sm mb-6 flex-grow">${p.description}</p>
+                        
+                        <div class="mb-8">
+                            <div class="score-bar mb-2">
+                                <div class="score-fill ${scoreColor}" style="width: ${scorePercent}%"></div>
+                            </div>
+                            <div class="flex justify-between text-[10px] font-bold text-slate-400 uppercase">
+                                <span>Starting</span>
+                                <span>Nailed It</span>
+                            </div>
+                        </div>
+
+                        <div class="space-y-4">
+                            <h3 class="text-xs font-bold text-slate-900 uppercase tracking-widest flex items-center">
+                                <svg class="w-3 h-3 mr-2 text-blue-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-11a1 1 0 10-2 0v2H7a1 1 0 100 2h2v2a1 1 0 102 0v-2h2a1 1 0 100-2h-2V7z"/></svg>
+                                Recent Evidence
+                            </h3>
                             ${p.updates.length > 0 ? 
-                                `<ul>${p.updates.map(u => `<li><strong>${u.date}:</strong> <a href="${u.link}" target="_blank">${u.content}</a></li>`).join('')}</ul>` :
-                                '<p class="no-updates">Monitoring for updates...</p>'
+                                `<ul class="space-y-3">
+                                    ${p.updates.map(u => `
+                                        <li class="group">
+                                            <a href="${u.link}" target="_blank" class="block">
+                                                <span class="text-[10px] font-bold text-slate-400 block mb-1">${u.date}</span>
+                                                <span class="text-sm text-slate-700 group-hover:text-blue-600 transition-colors line-clamp-2 leading-snug">${u.content}</span>
+                                            </a>
+                                        </li>
+                                    `).join('')}
+                                </ul>` :
+                                '<p class="text-sm text-slate-400 italic">Continuous monitoring for progress...</p>'
                             }
                         </div>
                     `;
-                    container.appendChild(section);
+                    container.appendChild(card);
                 });
             });
     </script>

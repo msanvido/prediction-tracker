@@ -1,26 +1,12 @@
 {
-  "last_updated": "2026-04-08",
+  "last_updated": "2026-04-09",
   "predictions": [
     {
       "id": 1,
-      "title": "World models will have their \u201cChatGPT moment\u201d",
+      "title": "World models will have their “ChatGPT moment”",
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
+      "score": 3,
       "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07347v1] Temporal Structure Mediates the Robustness and Collapse of Plant-Pollinator Networks",
-          "link": "https://arxiv.org/abs/2604.07347v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
-          "link": "https://arxiv.org/abs/2604.07348v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
-          "link": "https://arxiv.org/abs/2604.07350v1"
-        },
         {
           "date": "2026-04-08",
           "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
@@ -30,24 +16,10 @@
     },
     {
       "id": 2,
-      "title": "Non\u2011language models will get more love",
+      "title": "Non‑language models will get more love",
       "description": "Momentum around action models and VLAs (Vision-Language-Action).",
+      "score": 4,
       "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07347v1] Temporal Structure Mediates the Robustness and Collapse of Plant-Pollinator Networks",
-          "link": "https://arxiv.org/abs/2604.07347v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
-          "link": "https://arxiv.org/abs/2604.07348v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
-          "link": "https://arxiv.org/abs/2604.07350v1"
-        },
         {
           "date": "2026-04-07",
           "content": "[2604.05672v2] A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated VLA Model",
@@ -59,44 +31,15 @@
       "id": 3,
       "title": "Learning will become distributed",
       "description": "Agents continuously learning by observing and copying other agents.",
-      "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07345v1] Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
-          "link": "https://arxiv.org/abs/2604.07345v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
-          "link": "https://arxiv.org/abs/2604.07348v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
-          "link": "https://arxiv.org/abs/2604.07350v1"
-        }
-      ]
+      "score": 2,
+      "updates": []
     },
     {
       "id": 4,
       "title": "AI, control theory, and formal methods will converge",
       "description": "Intersection for verification, stability, and reliability of RL systems.",
+      "score": 3,
       "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07345v1] Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
-          "link": "https://arxiv.org/abs/2604.07345v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07347v1] Temporal Structure Mediates the Robustness and Collapse of Plant-Pollinator Networks",
-          "link": "https://arxiv.org/abs/2604.07347v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
-          "link": "https://arxiv.org/abs/2604.07348v1"
-        },
         {
           "date": "2026-04-08",
           "content": "[2604.07348v1] MoRight: Motion Control Done Right",
@@ -108,22 +51,8 @@
       "id": 5,
       "title": "Prompt and context engineering will be abstracted away",
       "description": "Handled by prompt compilers and optimizers (desired-state programming).",
+      "score": 5,
       "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07345v1] Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
-          "link": "https://arxiv.org/abs/2604.07345v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07346v1] Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior",
-          "link": "https://arxiv.org/abs/2604.07346v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
-          "link": "https://arxiv.org/abs/2604.07350v1"
-        },
         {
           "date": "2026-04-08",
           "content": "[2604.07328v1] How to sketch a learning algorithm (relevant to optimization)",
@@ -135,66 +64,22 @@
       "id": 6,
       "title": "New distribution mechanisms for simple apps will emerge",
       "description": "Shipping vibes instead of code; on-demand customization.",
-      "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07345v1] Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
-          "link": "https://arxiv.org/abs/2604.07345v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07346v1] Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior",
-          "link": "https://arxiv.org/abs/2604.07346v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07347v1] Temporal Structure Mediates the Robustness and Collapse of Plant-Pollinator Networks",
-          "link": "https://arxiv.org/abs/2604.07347v1"
-        }
-      ]
+      "score": 4,
+      "updates": []
     },
     {
       "id": 7,
-      "title": "Collaboration will move beyond source\u2011code versioning",
+      "title": "Collaboration will move beyond source‑code versioning",
       "description": "Git evolving to version agent interactions and records of intent.",
-      "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07288v1] Loop Blow-up Inflation: An Overview",
-          "link": "https://arxiv.org/abs/2604.07288v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07316v1] SL-FAC: A Communication-Efficient Split Learning Framework with Frequency-Aware Compression",
-          "link": "https://arxiv.org/abs/2604.07316v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07344v1] NIRVANA: A Comprehensive Dataset for Reproducing How Students Use Generative AI for Essay Writing",
-          "link": "https://arxiv.org/abs/2604.07344v1"
-        }
-      ]
+      "score": 1,
+      "updates": []
     },
     {
       "id": 8,
-      "title": "AI\u2011generated slop will raise the bar for quality",
+      "title": "AI‑generated slop will raise the bar for quality",
       "description": "Differentiation shifts to taste, judgment, and intent as AI content floods.",
+      "score": 6,
       "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07346v1] Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior",
-          "link": "https://arxiv.org/abs/2604.07346v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
-          "link": "https://arxiv.org/abs/2604.07348v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
-          "link": "https://arxiv.org/abs/2604.07350v1"
-        },
         {
           "date": "2026-04-08",
           "content": "[2604.07344v1] NIRVANA: Dataset for Reproducing How Students Use GenAI for Essay Writing",
@@ -206,44 +91,15 @@
       "id": 9,
       "title": "Intelligence will move from digital to physical",
       "description": "Intent automation in the physical world; designing/automating physical systems.",
-      "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07345v1] Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
-          "link": "https://arxiv.org/abs/2604.07345v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
-          "link": "https://arxiv.org/abs/2604.07348v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07349v1] Toward a Tractability Frontier for Exact Relevance Certification",
-          "link": "https://arxiv.org/abs/2604.07349v1"
-        }
-      ]
+      "score": 3,
+      "updates": []
     },
     {
       "id": 10,
       "title": "Certifications for AI agents",
       "description": "Human-level certifications for agents replacing knowledge workers.",
+      "score": 2,
       "updates": [
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07344v1] NIRVANA: A Comprehensive Dataset for Reproducing How Students Use Generative AI for Essay Writing",
-          "link": "https://arxiv.org/abs/2604.07344v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07345v1] Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning",
-          "link": "https://arxiv.org/abs/2604.07345v1"
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07349v1] Toward a Tractability Frontier for Exact Relevance Certification",
-          "link": "https://arxiv.org/abs/2604.07349v1"
-        },
         {
           "date": "2026-04-08",
           "content": "[2604.07349v1] Toward a Tractability Frontier for Exact Relevance Certification",
