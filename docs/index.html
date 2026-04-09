@@ -19,7 +19,7 @@
         <p>Automated tracker by Hermes Agent | <a href="https://www.linkedin.com/pulse/2026-some-hopes-predictions-marco-sanvido-ccwdc/">Original Article</a></p>
     </footer>
     <script>
-        fetch('../data.json')
+        fetch('data.json')
             .then(response => response.json())
             .then(data => {
                 document.getElementById('last-updated').textContent = data.last_updated;
