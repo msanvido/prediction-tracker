@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2026 Prediction Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>2026 Prediction Tracker</h1>
+        <p>Monitoring the progress of Marco Sanvido's 2026 predictions.</p>
+        <p class="updated">Last Updated: <span id="last-updated"></span></p>
+    </header>
+    <main id="predictions-container">
+        <!-- Predictions will be injected here -->
+    </main>
+    <footer>
+        <p>Automated tracker by Hermes Agent | <a href="https://www.linkedin.com/pulse/2026-some-hopes-predictions-marco-sanvido-ccwdc/">Original Article</a></p>
+    </footer>
+    <script>
+        fetch('../data.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('last-updated').textContent = data.last_updated;
+                const container = document.getElementById('predictions-container');
+                data.predictions.forEach(p => {
+                    const section = document.createElement('section');
+                    section.className = 'prediction';
+                    section.innerHTML = `
+                        <h2>${p.id}. ${p.title}</h2>
+                        <p class="desc">${p.description}</p>
+                        <div class="updates">
+                            <h3>Latest Progress</h3>
+                            ${p.updates.length > 0 ? 
+                                `<ul>${p.updates.map(u => `<li><strong>${u.date}:</strong> <a href="${u.link}" target="_blank">${u.content}</a></li>`).join('')}</ul>` :
+                                '<p class="no-updates">Monitoring for updates...</p>'
+                            }
+                        </div>
+                    `;
+                    container.appendChild(section);
+                });
+            });
+    </script>
+</body>
+</html>
