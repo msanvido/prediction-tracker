@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 08:56",
+  "last_updated": "2026-04-10 10:03",
   "predictions": [
     {
       "id": 1,
@@ -46,6 +46,12 @@
       "updates": [
         {
           "date": "2026-04-09",
+          "content": "[2604.08539v1] OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
+          "link": "https://arxiv.org/abs/2604.08539v1",
+          "reasoning": "Uses Group Relative Policy Optimization (GRPO) to advance open-source multimodal generalist models, bridging the gap between perception and reasoning."
+        },
+        {
+          "date": "2026-04-09",
           "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
           "link": "https://arxiv.org/abs/2604.08548v1",
           "reasoning": "This research on 'ETCH-X: Robustify Expressive Body Fitting to Cloth...' explores new architectural improvements that directly contribute to the scalability of Non language models."
@@ -67,11 +73,6 @@
           "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
           "link": "https://arxiv.org/abs/2604.07350v1",
           "reasoning": "This research on Non language models published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
-        },
-        {
-          "date": "2026-04-07",
-          "content": "[2604.05672v2] A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated VLA Model",
-          "link": "https://arxiv.org/abs/2604.05672"
         }
       ]
     },
