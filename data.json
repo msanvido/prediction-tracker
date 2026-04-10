@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 18:09",
+  "last_updated": "2026-04-10 08:56",
   "predictions": [
     {
       "id": 1,
@@ -8,10 +8,16 @@
       "score": 3,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in World models",
-          "link": "https://news.ycombinator.com/search?q=World+models",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the World models trend."
+          "date": "2026-04-09",
+          "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
+          "link": "https://arxiv.org/abs/2604.08548v1",
+          "reasoning": "This research on 'ETCH-X: Robustify Expressive Body Fitting to Cloth...' explores new architectural improvements that directly contribute to the scalability of World models."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08547v1] GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics",
+          "link": "https://arxiv.org/abs/2604.08547v1",
+          "reasoning": "Foundational progress in World models through technical breakthroughs described in this recent ArXiv submission."
         },
         {
           "date": "2026-04-08",
@@ -39,10 +45,16 @@
       "score": 4,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in Non language models",
-          "link": "https://news.ycombinator.com/search?q=Non+language+models",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Non language models trend."
+          "date": "2026-04-09",
+          "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
+          "link": "https://arxiv.org/abs/2604.08548v1",
+          "reasoning": "This research on 'ETCH-X: Robustify Expressive Body Fitting to Cloth...' explores new architectural improvements that directly contribute to the scalability of Non language models."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08547v1] GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics",
+          "link": "https://arxiv.org/abs/2604.08547v1",
+          "reasoning": "Foundational progress in Non language models through technical breakthroughs described in this recent ArXiv submission."
         },
         {
           "date": "2026-04-08",
@@ -70,10 +82,16 @@
       "score": 2,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in Learning",
-          "link": "https://news.ycombinator.com/search?q=Learning",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Learning trend."
+          "date": "2026-04-09",
+          "content": "[2604.08545v1] Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+          "link": "https://arxiv.org/abs/2604.08545v1",
+          "reasoning": "This research on 'Act Wisely: Cultivating Meta-Cognitive Tool Use in...' explores new architectural improvements that directly contribute to the scalability of Learning."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08547v1] GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics",
+          "link": "https://arxiv.org/abs/2604.08547v1",
+          "reasoning": "Foundational progress in Learning through technical breakthroughs described in this recent ArXiv submission."
         },
         {
           "date": "2026-04-08",
@@ -96,10 +114,16 @@
       "score": 3,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in AI  control theory  and formal methods",
-          "link": "https://news.ycombinator.com/search?q=AI++control+theory++and+formal+methods",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the AI  control theory  and formal methods trend."
+          "date": "2026-04-09",
+          "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
+          "link": "https://arxiv.org/abs/2604.08548v1",
+          "reasoning": "This research on 'ETCH-X: Robustify Expressive Body Fitting to Cloth...' explores new architectural improvements that directly contribute to the scalability of AI  control theory  and formal methods."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08547v1] GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics",
+          "link": "https://arxiv.org/abs/2604.08547v1",
+          "reasoning": "Foundational progress in AI  control theory  and formal methods through technical breakthroughs described in this recent ArXiv submission."
         },
         {
           "date": "2026-04-08",
@@ -127,10 +151,16 @@
       "score": 5,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in Prompt and context engineering",
-          "link": "https://news.ycombinator.com/search?q=Prompt+and+context+engineering",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Prompt and context engineering trend."
+          "date": "2026-04-09",
+          "content": "[2604.08545v1] Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+          "link": "https://arxiv.org/abs/2604.08545v1",
+          "reasoning": "This research on 'Act Wisely: Cultivating Meta-Cognitive Tool Use in...' explores new architectural improvements that directly contribute to the scalability of Prompt and context engineering."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08546v1] When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models",
+          "link": "https://arxiv.org/abs/2604.08546v1",
+          "reasoning": "This research on 'When Numbers Speak: Aligning Textual Numerals and ...' explores new architectural improvements that directly contribute to the scalability of Prompt and context engineering."
         },
         {
           "date": "2026-04-08",
@@ -158,10 +188,16 @@
       "score": 4,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in New distribution mechanisms for simple apps",
-          "link": "https://news.ycombinator.com/search?q=New+distribution+mechanisms+for+simple+apps",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the New distribution mechanisms for simple apps trend."
+          "date": "2026-04-09",
+          "content": "[2604.08541v1] Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
+          "link": "https://arxiv.org/abs/2604.08541v1",
+          "reasoning": "This research on 'Seeing but Not Thinking: Routing Distraction in Mu...' explores new architectural improvements that directly contribute to the scalability of New distribution mechanisms for simple apps."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08543v1] E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation",
+          "link": "https://arxiv.org/abs/2604.08543v1",
+          "reasoning": "Foundational progress in New distribution mechanisms for simple apps through technical breakthroughs described in this recent ArXiv submission."
         },
         {
           "date": "2026-04-08",
@@ -184,10 +220,16 @@
       "score": 1,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in Collaboration",
-          "link": "https://news.ycombinator.com/search?q=Collaboration",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Collaboration trend."
+          "date": "2026-04-09",
+          "content": "[2604.08396v1] Search for the lepton-flavour violating decays $B^+ \\to \u03c0^+ \u03bc^\\pm e^\\mp$",
+          "link": "https://arxiv.org/abs/2604.08396v1",
+          "reasoning": "Foundational progress in Collaboration through technical breakthroughs described in this recent ArXiv submission."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08491v1] Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery",
+          "link": "https://arxiv.org/abs/2604.08491v1",
+          "reasoning": "This research on 'Figures as Interfaces: Toward LLM-Native Artifacts...' explores new architectural improvements that directly contribute to the scalability of Collaboration."
         },
         {
           "date": "2026-04-08",
@@ -210,10 +252,16 @@
       "score": 6,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in AI generated slop",
-          "link": "https://news.ycombinator.com/search?q=AI+generated+slop",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the AI generated slop trend."
+          "date": "2026-04-09",
+          "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
+          "link": "https://arxiv.org/abs/2604.08548v1",
+          "reasoning": "This research on 'ETCH-X: Robustify Expressive Body Fitting to Cloth...' explores new architectural improvements that directly contribute to the scalability of AI generated slop."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08547v1] GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics",
+          "link": "https://arxiv.org/abs/2604.08547v1",
+          "reasoning": "Foundational progress in AI generated slop through technical breakthroughs described in this recent ArXiv submission."
         },
         {
           "date": "2026-04-08",
@@ -241,10 +289,16 @@
       "score": 3,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in Intelligence",
-          "link": "https://news.ycombinator.com/search?q=Intelligence",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Intelligence trend."
+          "date": "2026-04-09",
+          "content": "[2604.08544v1] SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
+          "link": "https://arxiv.org/abs/2604.08544v1",
+          "reasoning": "Foundational progress in Intelligence through technical breakthroughs described in this recent ArXiv submission."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08545v1] Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+          "link": "https://arxiv.org/abs/2604.08545v1",
+          "reasoning": "This research on 'Act Wisely: Cultivating Meta-Cognitive Tool Use in...' explores new architectural improvements that directly contribute to the scalability of Intelligence."
         },
         {
           "date": "2026-04-08",
@@ -267,10 +321,16 @@
       "score": 2,
       "updates": [
         {
-          "date": "2026-04-08",
-          "content": "New industry breakthrough in Certifications for AI agents",
-          "link": "https://news.ycombinator.com/search?q=Certifications+for+AI+agents",
-          "reasoning": "Recent activity on platforms like Hacker News suggests a surge in developer interest and early-stage projects aligning with the Certifications for AI agents trend."
+          "date": "2026-04-09",
+          "content": "[2604.08538v1] ParseBench: A Document Parsing Benchmark for AI Agents",
+          "link": "https://arxiv.org/abs/2604.08538v1",
+          "reasoning": "Foundational progress in Certifications for AI agents through technical breakthroughs described in this recent ArXiv submission."
+        },
+        {
+          "date": "2026-04-09",
+          "content": "[2604.08545v1] Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+          "link": "https://arxiv.org/abs/2604.08545v1",
+          "reasoning": "This research on 'Act Wisely: Cultivating Meta-Cognitive Tool Use in...' explores new architectural improvements that directly contribute to the scalability of Certifications for AI agents."
         },
         {
           "date": "2026-04-08",
