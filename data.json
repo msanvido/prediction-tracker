@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 10:03",
+  "last_updated": "2026-04-11 10:08",
   "predictions": [
     {
       "id": 1,
@@ -7,6 +7,12 @@
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-04-10",
+          "content": "[2604.08544v1] SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
+          "link": "https://arxiv.org/abs/2604.08544",
+          "reasoning": "This research introduces a physics-aligned simulator that scales data for world models, bridging the gap between synthetic demos and real-world complexity."
+        },
         {
           "date": "2026-04-09",
           "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
@@ -30,11 +36,6 @@
           "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
           "link": "https://arxiv.org/abs/2604.07350v1",
           "reasoning": "This research on World models published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
-          "link": "https://arxiv.org/abs/2604.07350"
         }
       ]
     },
@@ -44,6 +45,12 @@
       "description": "Momentum around action models and VLAs (Vision-Language-Action).",
       "score": 4,
       "updates": [
+        {
+          "date": "2026-04-10",
+          "content": "[2604.08539v1] OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
+          "link": "https://arxiv.org/abs/2604.08539",
+          "reasoning": "A major generalist multimodal reasoning model that specifically advances visual and reasoning tasks beyond simple text, accelerating the momentum of action models."
+        },
         {
           "date": "2026-04-09",
           "content": "[2604.08539v1] OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
@@ -67,12 +74,6 @@
           "content": "[2604.07348v1] MoRight: Motion Control Done Right",
           "link": "https://arxiv.org/abs/2604.07348v1",
           "reasoning": "This research on Non language models published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
-          "link": "https://arxiv.org/abs/2604.07350v1",
-          "reasoning": "This research on Non language models published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
         }
       ]
     },
@@ -82,6 +83,12 @@
       "description": "Agents continuously learning by observing and copying other agents.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-04-08",
+          "content": "ALTK-Evolve: On-the-Job Learning for AI Agents",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
+          "reasoning": "This framework enables agents to learn and evolve continuously 'on-the-job,' a critical step toward distributed learning via observation and action."
+        },
         {
           "date": "2026-04-09",
           "content": "[2604.08545v1] Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
@@ -115,6 +122,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-04-10",
+          "content": "[2604.08538v1] ParseBench: A Document Parsing Benchmark for AI Agents",
+          "link": "https://arxiv.org/abs/2604.08538",
+          "reasoning": "Focuses on 'semantic correctness' and structure in agent parsing, aligning with the convergence of formal methods and AI for reliable, verifiable autonomous decisions."
+        },
+        {
           "date": "2026-04-09",
           "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
           "link": "https://arxiv.org/abs/2604.08548v1",
@@ -137,11 +150,6 @@
           "content": "[2604.07348v1] MoRight: Motion Control Done Right",
           "link": "https://arxiv.org/abs/2604.07348v1",
           "reasoning": "This research on AI  control theory  and formal methods published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07348v1] MoRight: Motion Control Done Right",
-          "link": "https://arxiv.org/abs/2604.07348"
         }
       ]
     },
@@ -151,6 +159,12 @@
       "description": "Handled by prompt compilers and optimizers (desired-state programming).",
       "score": 5,
       "updates": [
+        {
+          "date": "2026-04-06",
+          "content": "[2604.05150v1] Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation",
+          "link": "https://arxiv.org/abs/2604.05150",
+          "reasoning": "Describes a paradigm shift to 'Compiled AI' where declarative pipelines (like DSPy) are optimized into deterministic code, effectively abstracting away manual prompt engineering."
+        },
         {
           "date": "2026-04-09",
           "content": "[2604.08545v1] Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
@@ -174,11 +188,6 @@
           "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
           "link": "https://arxiv.org/abs/2604.07350v1",
           "reasoning": "This research on Prompt and context engineering published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07328v1] How to sketch a learning algorithm (relevant to optimization)",
-          "link": "https://arxiv.org/abs/2604.07328"
         }
       ]
     },
@@ -188,6 +197,12 @@
       "description": "Shipping vibes instead of code; on-demand customization.",
       "score": 4,
       "updates": [
+        {
+          "date": "2026-04-10",
+          "content": "[2604.08529v1] PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents",
+          "link": "https://arxiv.org/abs/2604.08529",
+          "reasoning": "Proposes 'shared state' for personal agents to generate coherent instruments (apps/tools) on demand, supporting the 'vibes over code' distribution model."
+        },
         {
           "date": "2026-04-09",
           "content": "[2604.08541v1] Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
@@ -222,6 +237,12 @@
       "updates": [
         {
           "date": "2026-04-09",
+          "content": "[2604.07988v1] LogAct: Enabling Agentic Reliability via Shared Logs",
+          "link": "https://arxiv.org/abs/2604.07988",
+          "reasoning": "Introduces 'Shared Logs' to enable agentic reliability, moving the focus from versioning code to versioning records of agent interactions and intent."
+        },
+        {
+          "date": "2026-04-09",
           "content": "[2604.08396v1] Search for the lepton-flavour violating decays $B^+ \\to \u03c0^+ \u03bc^\\pm e^\\mp$",
           "link": "https://arxiv.org/abs/2604.08396v1",
           "reasoning": "Foundational progress in Collaboration through technical breakthroughs described in this recent ArXiv submission."
@@ -253,6 +274,12 @@
       "score": 6,
       "updates": [
         {
+          "date": "2026-03-16",
+          "content": "[2603.12683v2] Experimental evidence of progressive ChatGPT models self-convergence",
+          "link": "https://arxiv.org/abs/2603.12683",
+          "reasoning": "Provides empirical evidence of model collapse when trained on synthetic data, forcing a shift towards higher-quality human judgment and intent to differentiate content."
+        },
+        {
           "date": "2026-04-09",
           "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
           "link": "https://arxiv.org/abs/2604.08548v1",
@@ -275,11 +302,6 @@
           "content": "[2604.07350v1] Fast Spatial Memory with Elastic Test-Time Training",
           "link": "https://arxiv.org/abs/2604.07350v1",
           "reasoning": "This research on AI generated slop published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07344v1] NIRVANA: Dataset for Reproducing How Students Use GenAI for Essay Writing",
-          "link": "https://arxiv.org/abs/2604.07344"
         }
       ]
     },
@@ -289,6 +311,12 @@
       "description": "Intent automation in the physical world; designing/automating physical systems.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-04-10",
+          "content": "[2604.08544v1] SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
+          "link": "https://arxiv.org/abs/2604.08544",
+          "reasoning": "Directly enables physical intelligence by providing a physics-aligned simulator for deformable worlds, facilitating the automation of physical intent."
+        },
         {
           "date": "2026-04-09",
           "content": "[2604.08544v1] SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
@@ -322,6 +350,12 @@
       "score": 2,
       "updates": [
         {
+          "date": "2026-04-10",
+          "content": "[2604.08538v1] ParseBench: A Document Parsing Benchmark for AI Agents",
+          "link": "https://arxiv.org/abs/2604.08538",
+          "reasoning": "Establishes a formal benchmarking framework for document parsing agents, creating a precursor to human-level certification for knowledge work automation."
+        },
+        {
           "date": "2026-04-09",
           "content": "[2604.08538v1] ParseBench: A Document Parsing Benchmark for AI Agents",
           "link": "https://arxiv.org/abs/2604.08538v1",
@@ -344,11 +378,6 @@
           "content": "[2604.07349v1] Toward a Tractability Frontier for Exact Relevance Certification",
           "link": "https://arxiv.org/abs/2604.07349v1",
           "reasoning": "This research on Certifications for AI agents published in 2026-04-08 provides technical evidence supporting the prediction's technical foundation."
-        },
-        {
-          "date": "2026-04-08",
-          "content": "[2604.07349v1] Toward a Tractability Frontier for Exact Relevance Certification",
-          "link": "https://arxiv.org/abs/2604.07349"
         }
       ]
     }
