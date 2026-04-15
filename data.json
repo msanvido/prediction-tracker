@@ -1,79 +1,31 @@
 {
-  "last_updated": "2026-04-14 10:47",
+  "last_updated": "2026-04-15 22:05",
   "predictions": [
     {
       "id": 1,
-      "title": "World models will have their \u201cChatGPT moment\u201d",
+      "title": "World models will have their “ChatGPT moment”",
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11807v1] Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
-          "link": "https://arxiv.org/abs/2604.11807v1",
-          "reasoning": "This research on 'Physics-Informed State Space Models for Reliable S...' explores new architectural improvements that directly contribute to the scalability of World models."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11808v1] Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
-          "link": "https://arxiv.org/abs/2604.11808v1",
-          "reasoning": "This research on 'Pair2Scene: Learning Local Object Relations for Pr...' explores new architectural improvements that directly contribute to the scalability of World models."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11808v1] Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
-          "link": "https://arxiv.org/abs/2604.11808",
-          "reasoning": "Proposes a procedural generation framework that uses learned local rules to model spatial relations, significantly advancing the realism and scalability of AI-generated environments."
-        },
-        {
-          "date": "2026-04-10",
-          "content": "[2604.08544v1] SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
-          "link": "https://arxiv.org/abs/2604.08544",
-          "reasoning": "This research introduces a physics-aligned simulator that scales data for world models, bridging the gap between synthetic demos and real-world complexity."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
-          "link": "https://arxiv.org/abs/2604.08548v1",
-          "reasoning": "This research on 'ETCH-X: Robustify Expressive Body Fitting to Cloth...' explores new architectural improvements that directly contribute to the scalability of World models."
+          "content": "[2604.13035v1] SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis",
+          "link": "https://arxiv.org/abs/2604.13035",
+          "reasoning": "Introduces SceneCritic, a symbolic evaluator for 3D scene synthesis that provides object-level and relationship-level assessments, advancing the structural reliability of world model generation."
         }
       ]
     },
     {
       "id": 2,
-      "title": "Non\u2011language models will get more love",
+      "title": "Non-language models will get more love",
       "description": "Momentum around action models and VLAs (Vision-Language-Action).",
       "score": 4,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11807v1] Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
-          "link": "https://arxiv.org/abs/2604.11807v1",
-          "reasoning": "This research on 'Physics-Informed State Space Models for Reliable S...' explores new architectural improvements that directly contribute to the scalability of Non language models."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11808v1] Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
-          "link": "https://arxiv.org/abs/2604.11808v1",
-          "reasoning": "This research on 'Pair2Scene: Learning Local Object Relations for Pr...' explores new architectural improvements that directly contribute to the scalability of Non language models."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11805v1] Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
-          "link": "https://arxiv.org/abs/2604.11805",
-          "reasoning": "Demonstrates that physics simulators can scale data for physical reasoning, moving AI training beyond the limitations of text-based internet data towards Vision-Language-Action models."
-        },
-        {
-          "date": "2026-04-10",
-          "content": "[2604.08539v1] OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
-          "link": "https://arxiv.org/abs/2604.08539",
-          "reasoning": "A major generalist multimodal reasoning model that specifically advances visual and reasoning tasks beyond simple text, accelerating the momentum of action models."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08539v1] OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
-          "link": "https://arxiv.org/abs/2604.08539v1",
-          "reasoning": "Uses Group Relative Policy Optimization (GRPO) to advance open-source multimodal generalist models, bridging the gap between perception and reasoning."
+          "content": "[2604.13029v1] Visual Preference Optimization with Rubric Rewards",
+          "link": "https://arxiv.org/abs/2604.13029",
+          "reasoning": "Introduces rDPO, a framework for visual preference optimization using instance-specific rubrics, significantly advancing multimodal reasoning beyond text-only language models."
         }
       ]
     },
@@ -84,34 +36,10 @@
       "score": 2,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11808v1] Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
-          "link": "https://arxiv.org/abs/2604.11808v1",
-          "reasoning": "This research on 'Pair2Scene: Learning Local Object Relations for Pr...' explores new architectural improvements that directly contribute to the scalability of Learning."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11809v1] Who Handles Orientation? Investigating Invariance in Feature Matching",
-          "link": "https://arxiv.org/abs/2604.11809v1",
-          "reasoning": "Foundational progress in Learning through technical breakthroughs described in this recent ArXiv submission."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11806v1] Detecting Safety Violations Across Many Agent Traces",
-          "link": "https://arxiv.org/abs/2604.11806",
-          "reasoning": "Introduces Meerkat, a system that analyzes collective agent behavior across traces, providing a scalable framework for monitoring and learning from distributed agent populations."
-        },
-        {
-          "date": "2026-04-08",
-          "content": "ALTK-Evolve: On-the-Job Learning for AI Agents",
-          "link": "https://huggingface.co/blog/ibm-research/altk-evolve",
-          "reasoning": "This framework enables agents to learn and evolve continuously 'on-the-job,' a critical step toward distributed learning via observation and action."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08545v1] Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
-          "link": "https://arxiv.org/abs/2604.08545v1",
-          "reasoning": "This research on 'Act Wisely: Cultivating Meta-Cognitive Tool Use in...' explores new architectural improvements that directly contribute to the scalability of Learning."
+          "content": "[2604.13018v1] Toward Autonomous Long-Horizon Engineering for ML Research",
+          "link": "https://arxiv.org/abs/2604.13018",
+          "reasoning": "AiScientist uses a 'File-as-Bus' workspace to maintain state across long-horizon agentic tasks, a prerequisite for distributed agentic learning."
         }
       ]
     },
@@ -122,34 +50,10 @@
       "score": 3,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11807v1] Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
-          "link": "https://arxiv.org/abs/2604.11807v1",
-          "reasoning": "This research on 'Physics-Informed State Space Models for Reliable S...' explores new architectural improvements that directly contribute to the scalability of AI  control theory  and formal methods."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11808v1] Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
-          "link": "https://arxiv.org/abs/2604.11808v1",
-          "reasoning": "This research on 'Pair2Scene: Learning Local Object Relations for Pr...' explores new architectural improvements that directly contribute to the scalability of AI  control theory  and formal methods."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11807v1] Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting",
-          "link": "https://arxiv.org/abs/2604.11807",
-          "reasoning": "Integrates Koopman-linearized Riemannian manifolds with thermodynamic clear-sky boundary models, a clear convergence of formal methods and AI for system reliability."
-        },
-        {
-          "date": "2026-04-10",
-          "content": "[2604.08538v1] ParseBench: A Document Parsing Benchmark for AI Agents",
-          "link": "https://arxiv.org/abs/2604.08538",
-          "reasoning": "Focuses on 'semantic correctness' and structure in agent parsing, aligning with the convergence of formal methods and AI for reliable, verifiable autonomous decisions."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
-          "link": "https://arxiv.org/abs/2604.08548v1",
-          "reasoning": "This research on 'ETCH-X: Robustify Expressive Body Fitting to Cloth...' explores new architectural improvements that directly contribute to the scalability of AI  control theory  and formal methods."
+          "content": "[2604.13022v1] Classical and Quantum Speedups for Non-Convex Optimization via Energy Conserving Descent",
+          "link": "https://arxiv.org/abs/2604.13022",
+          "reasoning": "Formulates Energy Conserving Descent as a global non-convex optimization method, explicitly bridging Hamiltonian physics (control theory) with machine learning optimization."
         }
       ]
     },
@@ -160,34 +64,10 @@
       "score": 5,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11807v1] Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
-          "link": "https://arxiv.org/abs/2604.11807v1",
-          "reasoning": "This research on 'Physics-Informed State Space Models for Reliable S...' explores new architectural improvements that directly contribute to the scalability of Prompt and context engineering."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11809v1] Who Handles Orientation? Investigating Invariance in Feature Matching",
-          "link": "https://arxiv.org/abs/2604.11809v1",
-          "reasoning": "Foundational progress in Prompt and context engineering through technical breakthroughs described in this recent ArXiv submission."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11805v1] Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
-          "link": "https://arxiv.org/abs/2604.11805",
-          "reasoning": "Shows how RL and simulators can automate the acquisition of complex reasoning skills, effectively abstracting away the manual prompt and context engineering bottlenecks."
-        },
-        {
-          "date": "2026-04-06",
-          "content": "[2604.05150v1] Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation",
-          "link": "https://arxiv.org/abs/2604.05150",
-          "reasoning": "Describes a paradigm shift to 'Compiled AI' where declarative pipelines (like DSPy) are optimized into deterministic code, effectively abstracting away manual prompt engineering."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08545v1] Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
-          "link": "https://arxiv.org/abs/2604.08545v1",
-          "reasoning": "This research on 'Act Wisely: Cultivating Meta-Cognitive Tool Use in...' explores new architectural improvements that directly contribute to the scalability of Prompt and context engineering."
+          "content": "[2604.13016v1] Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
+          "link": "https://arxiv.org/abs/2604.13016",
+          "reasoning": "Investigates OPD as a paradigm to replace manual prompt/data reliance by distilling teacher models directly, effectively abstracting prompt engineering through automated distillation."
         }
       ]
     },
@@ -198,110 +78,38 @@
       "score": 4,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11807v1] Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
-          "link": "https://arxiv.org/abs/2604.11807v1",
-          "reasoning": "This research on 'Physics-Informed State Space Models for Reliable S...' explores new architectural improvements that directly contribute to the scalability of New distribution mechanisms for simple apps."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11808v1] Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
-          "link": "https://arxiv.org/abs/2604.11808v1",
-          "reasoning": "This research on 'Pair2Scene: Learning Local Object Relations for Pr...' explores new architectural improvements that directly contribute to the scalability of New distribution mechanisms for simple apps."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11797v1] OmniShow: A Comprehensive Framework for Omni-domain Human-Object Interaction Video Generation",
-          "link": "https://arxiv.org/abs/2604.11797",
-          "reasoning": "Sets a new standard for interactive video generation, enabling 'vibes-based' content and app distribution through high-fidelity multimodal conditioning."
-        },
-        {
-          "date": "2026-04-10",
-          "content": "[2604.08529v1] PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents",
-          "link": "https://arxiv.org/abs/2604.08529",
-          "reasoning": "Proposes 'shared state' for personal agents to generate coherent instruments (apps/tools) on demand, supporting the 'vibes over code' distribution model."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08541v1] Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
-          "link": "https://arxiv.org/abs/2604.08541v1",
-          "reasoning": "This research on 'Seeing but Not Thinking: Routing Distraction in Mu...' explores new architectural improvements that directly contribute to the scalability of New distribution mechanisms for simple apps."
+          "content": "[2604.13017v1] PAL: Personal Adaptive Learner",
+          "link": "https://arxiv.org/abs/2604.13017",
+          "reasoning": "PAL platform transforms lecture videos into interactive, personalized learning experiences on the fly, demonstrating on-demand customization of apps without manual coding."
         }
       ]
     },
     {
       "id": 7,
-      "title": "Collaboration will move beyond source\u2011code versioning",
+      "title": "Collaboration will move beyond source-code versioning",
       "description": "Git evolving to version agent interactions and records of intent.",
       "score": 1,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11588v1] Distributed State Estimation for Discrete-Time Systems With Unknown Inputs: An Optimization Approach",
-          "link": "https://arxiv.org/abs/2604.11588v1",
-          "reasoning": "Foundational progress in Collaboration through technical breakthroughs described in this recent ArXiv submission."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11741v1] Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games",
-          "link": "https://arxiv.org/abs/2604.11741v1",
-          "reasoning": "This research on 'Collaborative Multi-Agent Scripts Generation for E...' explores new architectural improvements that directly contribute to the scalability of Collaboration."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11806v1] Detecting Safety Violations Across Many Agent Traces",
-          "link": "https://arxiv.org/abs/2604.11806",
-          "reasoning": "Shifting focus to 'agent traces' as the primary artifact for auditing and reliability, aligning with the shift from source code to records-of-intent as versioned objects."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.07988v1] LogAct: Enabling Agentic Reliability via Shared Logs",
-          "link": "https://arxiv.org/abs/2604.07988",
-          "reasoning": "Introduces 'Shared Logs' to enable agentic reliability, moving the focus from versioning code to versioning records of agent interactions and intent."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08396v1] Search for the lepton-flavour violating decays $B^+ \\to \u03c0^+ \u03bc^\\pm e^\\mp$",
-          "link": "https://arxiv.org/abs/2604.08396v1",
-          "reasoning": "Foundational progress in Collaboration through technical breakthroughs described in this recent ArXiv submission."
+          "content": "[2604.13018v1] Toward Autonomous Long-Horizon Engineering for ML Research",
+          "link": "https://arxiv.org/abs/2604.13018",
+          "reasoning": "Uses a 'File-as-Bus' workspace for long-horizon engineering, emphasizing durable artifacts (plans, analyses, code) as the atomic unit of collaboration rather than just source-code versioning."
         }
       ]
     },
     {
       "id": 8,
-      "title": "AI\u2011generated slop will raise the bar for quality",
+      "title": "AI-generated slop will raise the bar for quality",
       "description": "Differentiation shifts to taste, judgment, and intent as AI content floods.",
       "score": 6,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11808v1] Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
-          "link": "https://arxiv.org/abs/2604.11808v1",
-          "reasoning": "This research on 'Pair2Scene: Learning Local Object Relations for Pr...' explores new architectural improvements that directly contribute to the scalability of AI generated slop."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11809v1] Who Handles Orientation? Investigating Invariance in Feature Matching",
-          "link": "https://arxiv.org/abs/2604.11809v1",
-          "reasoning": "Foundational progress in AI generated slop through technical breakthroughs described in this recent ArXiv submission."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11809v1] Who Handles Orientation? Investigating Invariance in Feature Matching",
-          "link": "https://arxiv.org/abs/2604.11809",
-          "reasoning": "Reveals that training at scale with diverse 3D datasets emerges robust rotation invariance, significantly raising the quality floor and differentiation bar for AI-generated visual content."
-        },
-        {
-          "date": "2026-03-16",
-          "content": "[2603.12683v2] Experimental evidence of progressive ChatGPT models self-convergence",
-          "link": "https://arxiv.org/abs/2603.12683",
-          "reasoning": "Provides empirical evidence of model collapse when trained on synthetic data, forcing a shift towards higher-quality human judgment and intent to differentiate content."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08548v1] ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
-          "link": "https://arxiv.org/abs/2604.08548v1",
-          "reasoning": "This research on 'ETCH-X: Robustify Expressive Body Fitting to Cloth...' explores new architectural improvements that directly contribute to the scalability of AI generated slop."
+          "content": "[2604.13035v1] SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis",
+          "link": "https://arxiv.org/abs/2604.13035",
+          "reasoning": "By using symbolic evaluators that outperform VLM judges, this work provides the high-quality feedback needed to move beyond 'slop' generation towards reliable, coherent content."
         }
       ]
     },
@@ -312,34 +120,10 @@
       "score": 3,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11806v1] Detecting Safety Violations Across Many Agent Traces",
-          "link": "https://arxiv.org/abs/2604.11806v1",
-          "reasoning": "Foundational progress in Intelligence through technical breakthroughs described in this recent ArXiv submission."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11807v1] Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
-          "link": "https://arxiv.org/abs/2604.11807v1",
-          "reasoning": "This research on 'Physics-Informed State Space Models for Reliable S...' explores new architectural improvements that directly contribute to the scalability of Intelligence."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11805v1] Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
-          "link": "https://arxiv.org/abs/2604.11805",
-          "reasoning": "Successful sim-to-real transfer for physics reasoning proves that intelligence is moving from digital logic to active physical world comprehension and interaction."
-        },
-        {
-          "date": "2026-04-10",
-          "content": "[2604.08544v1] SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
-          "link": "https://arxiv.org/abs/2604.08544",
-          "reasoning": "Directly enables physical intelligence by providing a physics-aligned simulator for deformable worlds, facilitating the automation of physical intent."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08544v1] SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
-          "link": "https://arxiv.org/abs/2604.08544v1",
-          "reasoning": "Foundational progress in Intelligence through technical breakthroughs described in this recent ArXiv submission."
+          "content": "[2604.13013v1] Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem",
+          "link": "https://arxiv.org/abs/2604.13013",
+          "reasoning": "Optimizes physical vehicle routing through a bilevel framework, showing how intelligence can directly control and optimize complex physical-world logistics."
         }
       ]
     },
@@ -350,34 +134,10 @@
       "score": 2,
       "updates": [
         {
-          "date": "2026-04-13",
-          "content": "[2604.11796v1] C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts",
-          "link": "https://arxiv.org/abs/2604.11796v1",
-          "reasoning": "This research on 'C-ReD: A Comprehensive Chinese Benchmark for AI-Ge...' explores new architectural improvements that directly contribute to the scalability of Certifications for AI agents."
-        },
-        {
-          "date": "2026-04-13",
-          "content": "[2604.11806v1] Detecting Safety Violations Across Many Agent Traces",
-          "link": "https://arxiv.org/abs/2604.11806v1",
-          "reasoning": "Foundational progress in Certifications for AI agents through technical breakthroughs described in this recent ArXiv submission."
-        },
-        {
           "date": "2026-04-14",
-          "content": "[2604.11806v1] Detecting Safety Violations Across Many Agent Traces",
-          "link": "https://arxiv.org/abs/2604.11806",
-          "reasoning": "Provides the auditing backbone required for formal AI agent certifications by discovering rare and complex safety violations across large trace collections."
-        },
-        {
-          "date": "2026-04-10",
-          "content": "[2604.08538v1] ParseBench: A Document Parsing Benchmark for AI Agents",
-          "link": "https://arxiv.org/abs/2604.08538",
-          "reasoning": "Establishes a formal benchmarking framework for document parsing agents, creating a precursor to human-level certification for knowledge work automation."
-        },
-        {
-          "date": "2026-04-09",
-          "content": "[2604.08538v1] ParseBench: A Document Parsing Benchmark for AI Agents",
-          "link": "https://arxiv.org/abs/2604.08538v1",
-          "reasoning": "Foundational progress in Certifications for AI agents through technical breakthroughs described in this recent ArXiv submission."
+          "content": "[2604.13024v1] CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations",
+          "link": "https://arxiv.org/abs/2604.13024",
+          "reasoning": "Enables robust, high-performance anomaly detection directly on logs, providing the auditing and verification tools essential for certifying agent behavior in production environments."
         }
       ]
     }
