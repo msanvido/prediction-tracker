@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-15 22:05",
+  "last_updated": "2026-04-15 22:06",
   "predictions": [
     {
       "id": 1,
-      "title": "World models will have their “ChatGPT moment”",
+      "title": "World models will have their \u201cChatGPT moment\u201d",
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
@@ -12,6 +12,12 @@
           "content": "[2604.13035v1] SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis",
           "link": "https://arxiv.org/abs/2604.13035",
           "reasoning": "Introduces SceneCritic, a symbolic evaluator for 3D scene synthesis that provides object-level and relationship-level assessments, advancing the structural reliability of world model generation."
+        },
+        {
+          "date": "2026-04-15",
+          "content": "Manual test update",
+          "link": "https://example.com",
+          "reasoning": "This is a manual update test to verify the GitHub pipeline."
         }
       ]
     },
