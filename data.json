@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-15 22:06",
+  "last_updated": "2026-04-16 10:00",
   "predictions": [
     {
       "id": 1,
-      "title": "World models will have their \u201cChatGPT moment\u201d",
+      "title": "World models will have their “ChatGPT moment”",
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
@@ -12,12 +12,6 @@
           "content": "[2604.13035v1] SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis",
           "link": "https://arxiv.org/abs/2604.13035",
           "reasoning": "Introduces SceneCritic, a symbolic evaluator for 3D scene synthesis that provides object-level and relationship-level assessments, advancing the structural reliability of world model generation."
-        },
-        {
-          "date": "2026-04-15",
-          "content": "Manual test update",
-          "link": "https://example.com",
-          "reasoning": "This is a manual update test to verify the GitHub pipeline."
         }
       ]
     },
@@ -32,6 +26,12 @@
           "content": "[2604.13029v1] Visual Preference Optimization with Rubric Rewards",
           "link": "https://arxiv.org/abs/2604.13029",
           "reasoning": "Introduces rDPO, a framework for visual preference optimization using instance-specific rubrics, significantly advancing multimodal reasoning beyond text-only language models."
+        },
+        {
+          "date": "2026-04-16",
+          "content": "[2604.14149v1] One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding",
+          "link": "https://arxiv.org/abs/2604.14149",
+          "reasoning": "Develops a novel compression paradigm (LP-Comp and QC-Comp) allowing VLMs to process long videos with significantly higher efficiency, pushing multimodal video understanding further."
         }
       ]
     },
@@ -60,6 +60,12 @@
           "content": "[2604.13022v1] Classical and Quantum Speedups for Non-Convex Optimization via Energy Conserving Descent",
           "link": "https://arxiv.org/abs/2604.13022",
           "reasoning": "Formulates Energy Conserving Descent as a global non-convex optimization method, explicitly bridging Hamiltonian physics (control theory) with machine learning optimization."
+        },
+        {
+          "date": "2026-04-16",
+          "content": "[2604.14151v1] Visplot: A visibility plot and observation scheduling tool for astronomical observatories",
+          "link": "https://arxiv.org/abs/2604.14151",
+          "reasoning": "Presents a tool that combines pre-allocation with multi-objective heuristic optimization, illustrating the convergence of formal constraints and control-based scheduling in real-world physical systems."
         }
       ]
     },
@@ -116,6 +122,12 @@
           "content": "[2604.13035v1] SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis",
           "link": "https://arxiv.org/abs/2604.13035",
           "reasoning": "By using symbolic evaluators that outperform VLM judges, this work provides the high-quality feedback needed to move beyond 'slop' generation towards reliable, coherent content."
+        },
+        {
+          "date": "2026-04-16",
+          "content": "[2604.14148v1] Seedance 2.0: Advancing Video Generation for World Complexity",
+          "link": "https://arxiv.org/abs/2604.14148",
+          "reasoning": "New multimodal generation models like Seedance 2.0 continue to raise the bar for quality, driving the shift toward higher-standard content generation."
         }
       ]
     },
@@ -144,6 +156,12 @@
           "content": "[2604.13024v1] CLAD: Efficient Log Anomaly Detection Directly on Compressed Representations",
           "link": "https://arxiv.org/abs/2604.13024",
           "reasoning": "Enables robust, high-performance anomaly detection directly on logs, providing the auditing and verification tools essential for certifying agent behavior in production environments."
+        },
+        {
+          "date": "2026-04-16",
+          "content": "[2604.14147v1] ROSE: Retrieval-Oriented Segmentation Enhancement",
+          "link": "https://arxiv.org/abs/2604.14147",
+          "reasoning": "Improves MLLM reliability for novel/emerging entities using retrieval-augmented frameworks (NEST benchmark), a step toward certifying agent knowledge accuracy in dynamic environments."
         }
       ]
     }
