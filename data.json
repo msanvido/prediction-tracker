@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 10:00",
+  "last_updated": "2026-04-18 10:00",
   "predictions": [
     {
       "id": 1,
@@ -66,6 +66,12 @@
           "content": "[2604.14151v1] Visplot: A visibility plot and observation scheduling tool for astronomical observatories",
           "link": "https://arxiv.org/abs/2604.14151",
           "reasoning": "Presents a tool that combines pre-allocation with multi-objective heuristic optimization, illustrating the convergence of formal constraints and control-based scheduling in real-world physical systems."
+        },
+        {
+          "date": "2026-04-18",
+          "content": "[2604.15238v1] A Nonlinear Separation Principle: Applications to Neural Networks, Control and Learning",
+          "link": "https://arxiv.org/abs/2604.15238",
+          "reasoning": "Establishes a nonlinear separation principle that guarantees global exponential stability for recurrent neural networks, directly bridging control theory with deep learning stability."
         }
       ]
     },
@@ -94,6 +100,12 @@
           "content": "[2604.13017v1] PAL: Personal Adaptive Learner",
           "link": "https://arxiv.org/abs/2604.13017",
           "reasoning": "PAL platform transforms lecture videos into interactive, personalized learning experiences on the fly, demonstrating on-demand customization of apps without manual coding."
+        },
+        {
+          "date": "2026-04-18",
+          "content": "[2604.15309v1] MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+          "link": "https://arxiv.org/abs/2604.15309",
+          "reasoning": "Demonstrates a hierarchical multimodal agent that generates UI/UX on demand, fulfilling the prediction of shipping dynamic application experiences rather than static code."
         }
       ]
     },
@@ -108,6 +120,12 @@
           "content": "[2604.13018v1] Toward Autonomous Long-Horizon Engineering for ML Research",
           "link": "https://arxiv.org/abs/2604.13018",
           "reasoning": "Uses a 'File-as-Bus' workspace for long-horizon engineering, emphasizing durable artifacts (plans, analyses, code) as the atomic unit of collaboration rather than just source-code versioning."
+        },
+        {
+          "date": "2026-04-18",
+          "content": "[2604.15140v1] DiscoTrace: Representing and Comparing Answering Strategies of Humans and LLMs in Information-Seeking Question Answering",
+          "link": "https://arxiv.org/abs/2604.15140",
+          "reasoning": "Develops a methodology to record and represent the rhetorical and reasoning strategies of agents, which is a key step towards versioning records of intent and agent interaction processes."
         }
       ]
     },
@@ -128,6 +146,12 @@
           "content": "[2604.14148v1] Seedance 2.0: Advancing Video Generation for World Complexity",
           "link": "https://arxiv.org/abs/2604.14148",
           "reasoning": "New multimodal generation models like Seedance 2.0 continue to raise the bar for quality, driving the shift toward higher-standard content generation."
+        },
+        {
+          "date": "2026-04-18",
+          "content": "[2604.15302v1] Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+          "link": "https://arxiv.org/abs/2604.15302",
+          "reasoning": "Addresses the reliability of 'LLM-as-a-judge' systems, a critical component for quality control in an era of abundant AI content, facilitating the raising of quality standards."
         }
       ]
     },
@@ -142,6 +166,12 @@
           "content": "[2604.13013v1] Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem",
           "link": "https://arxiv.org/abs/2604.13013",
           "reasoning": "Optimizes physical vehicle routing through a bilevel framework, showing how intelligence can directly control and optimize complex physical-world logistics."
+        },
+        {
+          "date": "2026-04-18",
+          "content": "[2604.15184v1] Agent-Aided Design for Dynamic CAD Models",
+          "link": "https://arxiv.org/abs/2604.15184",
+          "reasoning": "Introduces agents that design real-world CAD objects, demonstrating the integration of generative AI directly into the physical design and automation pipeline."
         }
       ]
     },
@@ -158,10 +188,10 @@
           "reasoning": "Enables robust, high-performance anomaly detection directly on logs, providing the auditing and verification tools essential for certifying agent behavior in production environments."
         },
         {
-          "date": "2026-04-16",
-          "content": "[2604.14147v1] ROSE: Retrieval-Oriented Segmentation Enhancement",
-          "link": "https://arxiv.org/abs/2604.14147",
-          "reasoning": "Improves MLLM reliability for novel/emerging entities using retrieval-augmented frameworks (NEST benchmark), a step toward certifying agent knowledge accuracy in dynamic environments."
+          "date": "2026-04-18",
+          "content": "[2604.15236v1] Agentic Microphysics: A Manifesto for Generative AI Safety",
+          "link": "https://arxiv.org/abs/2604.15236",
+          "reasoning": "Provides a rigorous safety framework for agentic systems, addressing the structured risks that arise from sustained interaction and tool use, foundational to establishing agent certifications."
         }
       ]
     }
