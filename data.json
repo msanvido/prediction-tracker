@@ -1,1 +1,205 @@
-{"last_updated": "2026-04-20 10:01", "predictions": [{"id": 1, "title": "World models will have their “ChatGPT moment”", "description": "Mainstream breakthrough for world models beyond synthetic demos.", "score": 3, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}, {"id": 2, "title": "Non-language models will get more love", "description": "Momentum around action models and VLAs (Vision-Language-Action).", "score": 4, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}, {"id": 3, "title": "Learning will become distributed", "description": "Agents continuously learning by observing and copying other agents.", "score": 2, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}, {"id": 4, "title": "AI, control theory, and formal methods will converge", "description": "Intersection for verification, stability, and reliability of RL systems.", "score": 3, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}, {"id": 5, "title": "Prompt and context engineering will be abstracted away", "description": "Handled by prompt compilers and optimizers (desired-state programming).", "score": 5, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}, {"id": 6, "title": "New distribution mechanisms for simple apps will emerge", "description": "Shipping vibes instead of code; on-demand customization.", "score": 4, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}, {"id": 7, "title": "Collaboration will move beyond source-code versioning", "description": "Git evolving to version agent interactions and records of intent.", "score": 1, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}, {"id": 8, "title": "AI-generated slop will raise the bar for quality", "description": "Differentiation shifts to taste, judgment, and intent as AI content floods.", "score": 6, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}, {"id": 9, "title": "Intelligence will move from digital to physical", "description": "Intent automation in the physical world; designing/automating physical systems.", "score": 3, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}, {"id": 10, "title": "Certifications for AI agents", "description": "Human-level certifications for agents replacing knowledge workers.", "score": 2, "updates": [{"date": "2026-04-20", "content": "No new arXiv papers identified due to API rate limits.", "link": "N/A", "reasoning": "API access temporarily unavailable."}]}]}
+{
+  "last_updated": "2026-04-22 10:02",
+  "predictions": [
+    {
+      "id": 1,
+      "title": "World models will have their \u201cChatGPT moment\u201d",
+      "description": "Mainstream breakthrough for world models beyond synthetic demos.",
+      "score": 3,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "No significant new arXiv papers found today.",
+          "link": "N/A",
+          "reasoning": "No relevant matches in recent submissions."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Non-language models will get more love",
+      "description": "Momentum around action models and VLAs (Vision-Language-Action).",
+      "score": 4,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+          "link": "https://arxiv.org/abs/2604.19748v1",
+          "reasoning": "Recent relevant paper found."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Learning will become distributed",
+      "description": "Agents continuously learning by observing and copying other agents.",
+      "score": 2,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "CityRAG: Stepping Into a City via Spatially-Grounded Video Generation",
+          "link": "https://arxiv.org/abs/2604.19741v1",
+          "reasoning": "Recent relevant paper found."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "AI, control theory, and formal methods will converge",
+      "description": "Intersection for verification, stability, and reliability of RL systems.",
+      "score": 3,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+          "link": "https://arxiv.org/abs/2604.19748v1",
+          "reasoning": "Recent relevant paper found."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Prompt and context engineering will be abstracted away",
+      "description": "Handled by prompt compilers and optimizers (desired-state programming).",
+      "score": 5,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+          "link": "https://arxiv.org/abs/2604.19748v1",
+          "reasoning": "Recent relevant paper found."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "New distribution mechanisms for simple apps will emerge",
+      "description": "Shipping vibes instead of code; on-demand customization.",
+      "score": 4,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+          "link": "https://arxiv.org/abs/2604.19748v1",
+          "reasoning": "Recent relevant paper found."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Collaboration will move beyond source-code versioning",
+      "description": "Git evolving to version agent interactions and records of intent.",
+      "score": 1,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+          "link": "https://arxiv.org/abs/2604.19748v1",
+          "reasoning": "Recent relevant paper found."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "AI-generated slop will raise the bar for quality",
+      "description": "Differentiation shifts to taste, judgment, and intent as AI content floods.",
+      "score": 6,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+          "link": "https://arxiv.org/abs/2604.19748v1",
+          "reasoning": "Recent relevant paper found."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Intelligence will move from digital to physical",
+      "description": "Intent automation in the physical world; designing/automating physical systems.",
+      "score": 3,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
+          "link": "https://arxiv.org/abs/2604.19747v1",
+          "reasoning": "Recent relevant paper found."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Certifications for AI agents",
+      "description": "Human-level certifications for agents replacing knowledge workers.",
+      "score": 2,
+      "updates": [
+        {
+          "date": "2026-04-22",
+          "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+          "link": "https://arxiv.org/abs/2604.19748v1",
+          "reasoning": "Recent relevant paper found."
+        },
+        {
+          "date": "2026-04-20",
+          "content": "No new arXiv papers identified due to API rate limits.",
+          "link": "N/A",
+          "reasoning": "API access temporarily unavailable."
+        }
+      ]
+    }
+  ]
+}
