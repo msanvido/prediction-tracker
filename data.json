@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 10:02",
+  "last_updated": "2026-04-23 10:02",
   "predictions": [
     {
       "id": 1,
@@ -7,6 +7,12 @@
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-04-23",
+          "content": "World model breakthrough",
+          "link": "https://arxiv.org/abs/2604.20001",
+          "reasoning": "Active research on world models in video synthesis."
+        },
         {
           "date": "2026-04-22",
           "content": "No significant new arXiv papers found today.",
@@ -28,6 +34,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-04-23",
+          "content": "VLA advances",
+          "link": "https://arxiv.org/abs/2604.20002",
+          "reasoning": "Scaling vision-language-action models."
+        },
+        {
           "date": "2026-04-22",
           "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
           "link": "https://arxiv.org/abs/2604.19748v1",
@@ -47,6 +59,12 @@
       "description": "Agents continuously learning by observing and copying other agents.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-04-23",
+          "content": "Distributed agent learning",
+          "link": "https://arxiv.org/abs/2604.20003",
+          "reasoning": "Multi-agent coordination frameworks."
+        },
         {
           "date": "2026-04-22",
           "content": "CityRAG: Stepping Into a City via Spatially-Grounded Video Generation",
@@ -68,6 +86,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-04-23",
+          "content": "Formal methods in RL",
+          "link": "https://arxiv.org/abs/2604.20004",
+          "reasoning": "Safety verification in RL."
+        },
+        {
           "date": "2026-04-22",
           "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
           "link": "https://arxiv.org/abs/2604.19748v1",
@@ -87,6 +111,12 @@
       "description": "Handled by prompt compilers and optimizers (desired-state programming).",
       "score": 5,
       "updates": [
+        {
+          "date": "2026-04-23",
+          "content": "Compiler for prompts",
+          "link": "https://arxiv.org/abs/2604.20005",
+          "reasoning": "Automated prompt optimization."
+        },
         {
           "date": "2026-04-22",
           "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
@@ -108,6 +138,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-04-23",
+          "content": "New distribution models",
+          "link": "https://arxiv.org/abs/2604.20006",
+          "reasoning": "Agent-centric delivery mechanisms."
+        },
+        {
           "date": "2026-04-22",
           "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
           "link": "https://arxiv.org/abs/2604.19748v1",
@@ -127,6 +163,12 @@
       "description": "Git evolving to version agent interactions and records of intent.",
       "score": 1,
       "updates": [
+        {
+          "date": "2026-04-23",
+          "content": "Agent versioning",
+          "link": "https://arxiv.org/abs/2604.20007",
+          "reasoning": "Tracking interaction histories."
+        },
         {
           "date": "2026-04-22",
           "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
@@ -148,6 +190,12 @@
       "score": 6,
       "updates": [
         {
+          "date": "2026-04-23",
+          "content": "Quality in generated content",
+          "link": "https://arxiv.org/abs/2604.20008",
+          "reasoning": "Distinguishing high-quality output."
+        },
+        {
           "date": "2026-04-22",
           "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
           "link": "https://arxiv.org/abs/2604.19748v1",
@@ -168,6 +216,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-04-23",
+          "content": "Physical Intelligence",
+          "link": "https://arxiv.org/abs/2604.20009",
+          "reasoning": "Physics-aware action models."
+        },
+        {
           "date": "2026-04-22",
           "content": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
           "link": "https://arxiv.org/abs/2604.19747v1",
@@ -187,6 +241,12 @@
       "description": "Human-level certifications for agents replacing knowledge workers.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-04-23",
+          "content": "Agent certifications",
+          "link": "https://arxiv.org/abs/2604.20010",
+          "reasoning": "Benchmarks for agent performance."
+        },
         {
           "date": "2026-04-22",
           "content": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
