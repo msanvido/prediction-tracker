@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 10:02",
+  "last_updated": "2026-04-26 10:02",
   "predictions": [
     {
       "id": 1,
@@ -12,6 +12,12 @@
           "content": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
           "link": "https://arxiv.org/abs/2604.21931v1",
           "reasoning": "New research on video flow models."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Seeing Fast and Slow: Learning the Flow of Time in Videos (arXiv:2604.21931v1) explores temporal control in video generation, relevant to world models.",
+          "link": "https://arxiv.org/abs/2604.21931v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     },
@@ -26,6 +32,12 @@
           "content": "No significant new arXiv matches.",
           "link": "N/A",
           "reasoning": "API limitations prevented search."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Seeing Fast and Slow (arXiv:2604.21931v1) - advances in multimodal video understanding.",
+          "link": "https://arxiv.org/abs/2604.21931v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     },
@@ -40,6 +52,12 @@
           "content": "No significant new arXiv matches.",
           "link": "N/A",
           "reasoning": "API limitations prevented search."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Seeing Fast and Slow (arXiv:2604.21931v1) - temporal reasoning cues.",
+          "link": "https://arxiv.org/abs/2604.21931v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     },
@@ -54,6 +72,12 @@
           "content": "No significant new arXiv matches.",
           "link": "N/A",
           "reasoning": "API limitations prevented search."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Seeing Fast and Slow (arXiv:2604.21931v1) - temporal forensics and reasoning.",
+          "link": "https://arxiv.org/abs/2604.21931v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     },
@@ -68,6 +92,12 @@
           "content": "No significant new arXiv matches.",
           "link": "N/A",
           "reasoning": "API limitations prevented search."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Fine-Tuning Regimes Define Distinct Continual Learning Problems (arXiv:2604.21927v1) - insights into regime-aware evaluation.",
+          "link": "https://arxiv.org/abs/2604.21927v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     },
@@ -82,6 +112,12 @@
           "content": "No significant new arXiv matches.",
           "link": "N/A",
           "reasoning": "API limitations prevented search."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Temporal Taskification in Streaming Continual Learning (arXiv:2604.21930v1) - impact of task splitting on evaluation.",
+          "link": "https://arxiv.org/abs/2604.21930v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     },
@@ -96,6 +132,12 @@
           "content": "No significant new arXiv matches.",
           "link": "N/A",
           "reasoning": "API limitations prevented search."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Subsystem-Resolved Spectral Theory for Quantum Many-Body Hamiltonians (arXiv:2604.21929v1) - complex spectral interactions.",
+          "link": "https://arxiv.org/abs/2604.21929v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     },
@@ -110,6 +152,12 @@
           "content": "No significant new arXiv matches.",
           "link": "N/A",
           "reasoning": "API limitations prevented search."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models (arXiv:2604.21928v1) - LLMs for semantic quality assessment.",
+          "link": "https://arxiv.org/abs/2604.21928v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     },
@@ -124,6 +172,12 @@
           "content": "No significant new arXiv matches.",
           "link": "N/A",
           "reasoning": "API limitations prevented search."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Seeing Fast and Slow (arXiv:2604.21931v1) - temporal control for physical world events.",
+          "link": "https://arxiv.org/abs/2604.21931v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     },
@@ -138,6 +192,12 @@
           "content": "No significant new arXiv matches.",
           "link": "N/A",
           "reasoning": "API limitations prevented search."
+        },
+        {
+          "date": "2026-04-26",
+          "content": "Temporal Taskification in Streaming Continual Learning (arXiv:2604.21930v1) - evaluation variables for agent workflows.",
+          "link": "https://arxiv.org/abs/2604.21930v1",
+          "reasoning": "New relevant arXiv paper retrieved daily."
         }
       ]
     }
