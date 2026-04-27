@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26 10:02",
+  "last_updated": "2026-04-27 10:02",
   "predictions": [
     {
       "id": 1,
@@ -18,6 +18,12 @@
           "content": "Seeing Fast and Slow: Learning the Flow of Time in Videos (arXiv:2604.21931v1) explores temporal control in video generation, relevant to world models.",
           "link": "https://arxiv.org/abs/2604.21931v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "How Do AI Agents Spend Your Money? (https://arxiv.org/abs/2604.22750v1)",
+          "link": "https://arxiv.org/abs/2604.22750v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     },
@@ -38,6 +44,12 @@
           "content": "Seeing Fast and Slow (arXiv:2604.21931v1) - advances in multimodal video understanding.",
           "link": "https://arxiv.org/abs/2604.21931v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "GCImOpt: Learning efficient goal-conditioned policies (https://arxiv.org/abs/2604.22724v1)",
+          "link": "https://arxiv.org/abs/2604.22724v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     },
@@ -58,6 +70,12 @@
           "content": "Seeing Fast and Slow (arXiv:2604.21931v1) - temporal reasoning cues.",
           "link": "https://arxiv.org/abs/2604.21931v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "Spend Less, Fit Better: Scaling Law Fitting (https://arxiv.org/abs/2604.22753v1)",
+          "link": "https://arxiv.org/abs/2604.22753v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     },
@@ -78,6 +96,12 @@
           "content": "Seeing Fast and Slow (arXiv:2604.21931v1) - temporal forensics and reasoning.",
           "link": "https://arxiv.org/abs/2604.21931v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "RFID-Based Attendance System (https://arxiv.org/abs/2604.22697v1)",
+          "link": "https://arxiv.org/abs/2604.22697v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     },
@@ -98,6 +122,12 @@
           "content": "Fine-Tuning Regimes Define Distinct Continual Learning Problems (arXiv:2604.21927v1) - insights into regime-aware evaluation.",
           "link": "https://arxiv.org/abs/2604.21927v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "Representational Harms in LLM-Generated Narratives (https://arxiv.org/abs/2604.22749v1)",
+          "link": "https://arxiv.org/abs/2604.22749v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     },
@@ -118,6 +148,12 @@
           "content": "Temporal Taskification in Streaming Continual Learning (arXiv:2604.21930v1) - impact of task splitting on evaluation.",
           "link": "https://arxiv.org/abs/2604.21930v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "Agentic Token Consumption Patterns (https://arxiv.org/abs/2604.22750v1)",
+          "link": "https://arxiv.org/abs/2604.22750v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     },
@@ -138,6 +174,12 @@
           "content": "Subsystem-Resolved Spectral Theory for Quantum Many-Body Hamiltonians (arXiv:2604.21929v1) - complex spectral interactions.",
           "link": "https://arxiv.org/abs/2604.21929v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "Agentic Interaction Analysis (https://arxiv.org/abs/2604.22750v1)",
+          "link": "https://arxiv.org/abs/2604.22750v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     },
@@ -158,6 +200,12 @@
           "content": "Evaluation of Automatic Speech Recognition Using Generative Large Language Models (arXiv:2604.21928v1) - LLMs for semantic quality assessment.",
           "link": "https://arxiv.org/abs/2604.21928v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "LLM Generative Quality Assessment (https://arxiv.org/abs/2604.22750v1)",
+          "link": "https://arxiv.org/abs/2604.22750v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     },
@@ -178,6 +226,12 @@
           "content": "Seeing Fast and Slow (arXiv:2604.21931v1) - temporal control for physical world events.",
           "link": "https://arxiv.org/abs/2604.21931v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "From Physics to Statistics: Maximum Entropy (https://arxiv.org/abs/2604.22752v1)",
+          "link": "https://arxiv.org/abs/2604.22752v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     },
@@ -198,6 +252,12 @@
           "content": "Temporal Taskification in Streaming Continual Learning (arXiv:2604.21930v1) - evaluation variables for agent workflows.",
           "link": "https://arxiv.org/abs/2604.21930v1",
           "reasoning": "New relevant arXiv paper retrieved daily."
+        },
+        {
+          "date": "2026-04-27",
+          "content": "Scaling Law Fitting via Active Experiment (https://arxiv.org/abs/2604.22753v1)",
+          "link": "https://arxiv.org/abs/2604.22753v1",
+          "reasoning": "Daily arXiv research update for relevant trends."
         }
       ]
     }
