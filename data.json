@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29 10:00",
+  "last_updated": "2026-04-30 10:01",
   "predictions": [
     {
       "id": 1,
@@ -7,6 +7,12 @@
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-04-30",
+          "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
+          "link": "http://arxiv.org/abs/2604.26952v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
         {
           "date": "2026-04-29",
           "content": "How Fast Should a Model Commit to Supervision? (https://arxiv.org/abs/2604.25907v1) discusses training reasoning models.",
@@ -22,6 +28,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-04-30",
+          "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
+          "link": "http://arxiv.org/abs/2604.26952v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
+        {
           "date": "2026-04-29",
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) explores VLA-related benchmarking.",
           "link": "https://arxiv.org/abs/2604.25914v1",
@@ -35,6 +47,12 @@
       "description": "Agents continuously learning by observing and copying other agents.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-04-30",
+          "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
+          "link": "http://arxiv.org/abs/2604.26952v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
         {
           "date": "2026-04-29",
           "content": "Recursive Multi-Agent Systems (https://arxiv.org/abs/2604.25917v1) explores distributed agent learning.",
@@ -50,6 +68,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-04-30",
+          "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
+          "link": "http://arxiv.org/abs/2604.26952v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
+        {
           "date": "2026-04-29",
           "content": "How Fast Should a Model Commit to Supervision? (https://arxiv.org/abs/2604.25907v1) - training stability and supervision.",
           "link": "https://arxiv.org/abs/2604.25907v1",
@@ -63,6 +87,12 @@
       "description": "Handled by prompt compilers and optimizers (desired-state programming).",
       "score": 5,
       "updates": [
+        {
+          "date": "2026-04-30",
+          "content": "Optimizing Dynamic Metasurface Antenna Configurations for Direction-of-Arrival and Polarization Estimation Using an Experimentally Calibrated Multiport-Network Model (http://arxiv.org/abs/2604.26948v1)",
+          "link": "http://arxiv.org/abs/2604.26948v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
         {
           "date": "2026-04-29",
           "content": "How Fast Should a Model Commit to Supervision? (https://arxiv.org/abs/2604.25907v1) - implications for training automation.",
@@ -78,6 +108,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-04-30",
+          "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
+          "link": "http://arxiv.org/abs/2604.26952v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
+        {
           "date": "2026-04-29",
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) - new agent evaluation mechanisms.",
           "link": "https://arxiv.org/abs/2604.25914v1",
@@ -91,6 +127,12 @@
       "description": "Git evolving to version agent interactions and records of intent.",
       "score": 1,
       "updates": [
+        {
+          "date": "2026-04-30",
+          "content": "Weighted Linearization of Vector Fields via a Formal Moser Trick (http://arxiv.org/abs/2604.26950v1)",
+          "link": "http://arxiv.org/abs/2604.26950v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
         {
           "date": "2026-04-29",
           "content": "Recursive Multi-Agent Systems (https://arxiv.org/abs/2604.25917v1) - interactions as fundamental units.",
@@ -106,6 +148,12 @@
       "score": 6,
       "updates": [
         {
+          "date": "2026-04-30",
+          "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
+          "link": "http://arxiv.org/abs/2604.26952v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
+        {
           "date": "2026-04-29",
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) - focus on data viz benchmark quality.",
           "link": "https://arxiv.org/abs/2604.25914v1",
@@ -120,6 +168,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-04-30",
+          "content": "Anomalous Transport and Explicit Symmetry Breaking in Holography (http://arxiv.org/abs/2604.26949v1)",
+          "link": "http://arxiv.org/abs/2604.26949v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
+        {
           "date": "2026-04-29",
           "content": "Recursive Multi-Agent Systems (https://arxiv.org/abs/2604.25917v1) - relevance to system-level physical automation.",
           "link": "https://arxiv.org/abs/2604.25917v1",
@@ -133,6 +187,12 @@
       "description": "Human-level certifications for agents replacing knowledge workers.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-04-30",
+          "content": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models (http://arxiv.org/abs/2604.26951v1)",
+          "link": "http://arxiv.org/abs/2604.26951v1",
+          "reasoning": "Daily arXiv update for this prediction category."
+        },
         {
           "date": "2026-04-29",
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) - benchmark-based agent performance evaluation.",
