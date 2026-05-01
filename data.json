@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30 10:01",
+  "last_updated": "2026-05-01 10:00",
   "predictions": [
     {
       "id": 1,
@@ -7,6 +7,12 @@
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-05-01",
+          "content": "HERMES++: A Unified Driving World Model for 3D Scene Understanding and Generation (http://arxiv.org/abs/2604.28196v1) - integrates 3D scene understanding and future geometry prediction in a single world model framework.",
+          "link": "http://arxiv.org/abs/2604.28196v1",
+          "reasoning": "Advances in unified world models for autonomous driving with LLM-enhanced reasoning."
+        },
         {
           "date": "2026-04-30",
           "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
@@ -28,6 +34,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-01",
+          "content": "MotuBrain: An Advanced World Action Model for Robot Control (http://arxiv.org/abs/2604.27792v1) - Vision-Language-Action (VLA) model combining video generation with world action modeling for robotics.",
+          "link": "http://arxiv.org/abs/2604.27792v1",
+          "reasoning": "Direct progress on VLA/world action models combining vision, language, and action."
+        },
+        {
           "date": "2026-04-30",
           "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
           "link": "http://arxiv.org/abs/2604.26952v1",
@@ -47,6 +59,12 @@
       "description": "Agents continuously learning by observing and copying other agents.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-01",
+          "content": "Safe Bilevel Delegation (SBD): A Formal Framework for Runtime Delegation Safety in Multi-Agent Systems (http://arxiv.org/abs/2604.27358v1) - formal framework for safe subtask delegation between LLM agents.",
+          "link": "http://arxiv.org/abs/2604.27358v1",
+          "reasoning": "Advances in distributed multi-agent learning with formal delegation safety guarantees."
+        },
         {
           "date": "2026-04-30",
           "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
@@ -68,6 +86,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-01",
+          "content": "Global Optimality for Constrained Exploration via Penalty Regularization (http://arxiv.org/abs/2604.28144v1) - connects control theory and RL for constrained maximum-entropy exploration.",
+          "link": "http://arxiv.org/abs/2604.28144v1",
+          "reasoning": "Intersection of control theory (constrained optimization), RL, and formal methods for exploration."
+        },
+        {
           "date": "2026-04-30",
           "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
           "link": "http://arxiv.org/abs/2604.26952v1",
@@ -87,6 +111,12 @@
       "description": "Handled by prompt compilers and optimizers (desired-state programming).",
       "score": 5,
       "updates": [
+        {
+          "date": "2026-05-01",
+          "content": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms (http://arxiv.org/abs/2604.26211v1) - end-to-end framework combining structured meta-prompting with automated code generation.",
+          "link": "http://arxiv.org/abs/2604.26211v1",
+          "reasoning": "Automated prompt engineering pipeline that abstracts away manual prompt tuning."
+        },
         {
           "date": "2026-04-30",
           "content": "Optimizing Dynamic Metasurface Antenna Configurations for Direction-of-Arrival and Polarization Estimation Using an Experimentally Calibrated Multiport-Network Model (http://arxiv.org/abs/2604.26948v1)",
@@ -108,6 +138,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-01",
+          "content": "From Unstructured Recall to Schema-Grounded Memory: Reliable AI Memory via Iterative, Schema-Aware Extraction (http://arxiv.org/abs/2604.27906v1) - reliable persistent AI memory for application contexts.",
+          "link": "http://arxiv.org/abs/2604.27906v1",
+          "reasoning": "New distribution mechanisms for AI-powered applications via schema-grounded memory."
+        },
+        {
           "date": "2026-04-30",
           "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
           "link": "http://arxiv.org/abs/2604.26952v1",
@@ -127,6 +163,12 @@
       "description": "Git evolving to version agent interactions and records of intent.",
       "score": 1,
       "updates": [
+        {
+          "date": "2026-05-01",
+          "content": "Heterogeneous Scientific Foundation Model Collaboration (http://arxiv.org/abs/2604.27351v1) - agentic LLM systems collaborating across scientific domains beyond language-only interfaces.",
+          "link": "http://arxiv.org/abs/2604.27351v1",
+          "reasoning": "Multi-agent collaboration architectures moving beyond traditional version control patterns."
+        },
         {
           "date": "2026-04-30",
           "content": "Weighted Linearization of Vector Fields via a Formal Moser Trick (http://arxiv.org/abs/2604.26950v1)",
@@ -148,6 +190,12 @@
       "score": 6,
       "updates": [
         {
+          "date": "2026-05-01",
+          "content": "DeepSignature: Digitally Signed, Content-Encoding Watermarks for Robust Image Authentication (http://arxiv.org/abs/2604.23016v1) - AI-generated content watermarking and authentication against synthetic slop.",
+          "link": "http://arxiv.org/abs/2604.23016v1",
+          "reasoning": "Quality authentication mechanisms raised by the need to differentiate AI-generated content."
+        },
+        {
           "date": "2026-04-30",
           "content": "Outer-Crust Equations of State for Neutron Stars (http://arxiv.org/abs/2604.26952v1)",
           "link": "http://arxiv.org/abs/2604.26952v1",
@@ -168,6 +216,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-01",
+          "content": "3D Generation for Embodied AI and Robotic Simulation: A Survey (http://arxiv.org/abs/2604.26509v1) - comprehensive survey of 3D content generation for physical-world embodied AI.",
+          "link": "http://arxiv.org/abs/2604.26509v1",
+          "reasoning": "Bridging digital intelligence to physical-world simulation and robotics."
+        },
+        {
           "date": "2026-04-30",
           "content": "Anomalous Transport and Explicit Symmetry Breaking in Holography (http://arxiv.org/abs/2604.26949v1)",
           "link": "http://arxiv.org/abs/2604.26949v1",
@@ -187,6 +241,12 @@
       "description": "Human-level certifications for agents replacing knowledge workers.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-01",
+          "content": "TRUST: A Framework for Decentralized AI Service v.0.1 (http://arxiv.org/abs/2604.27132v1) - decentralized verification framework for LLMs and multi-agent systems in high-stakes domains.",
+          "link": "http://arxiv.org/abs/2604.27132v1",
+          "reasoning": "Direct work on certification/verification frameworks for AI agent systems."
+        },
         {
           "date": "2026-04-30",
           "content": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models (http://arxiv.org/abs/2604.26951v1)",
