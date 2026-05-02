@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 10:00",
+  "last_updated": "2026-05-02 10:00",
   "predictions": [
     {
       "id": 1,
@@ -7,6 +7,12 @@
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-05-02",
+          "content": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling (http://arxiv.org/abs/2604.28185v1) - Traces the evolution of visual generation toward agentic world models that combine spatial reasoning, persistent state, and interactive editing.",
+          "link": "http://arxiv.org/abs/2604.28185v1",
+          "reasoning": "Progress toward a ChatGPT moment for world models, evolving from pure generation to agentic world modeling."
+        },
         {
           "date": "2026-05-01",
           "content": "HERMES++: A Unified Driving World Model for 3D Scene Understanding and Generation (http://arxiv.org/abs/2604.28196v1) - integrates 3D scene understanding and future geometry prediction in a single world model framework.",
@@ -34,6 +40,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-02",
+          "content": "LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models (http://arxiv.org/abs/2604.28192v1) - Applies RL directly to VLA models for robotic manipulation using adaptive physical latent reasoning. Also: FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction (http://arxiv.org/abs/2604.28115v1).",
+          "link": "http://arxiv.org/abs/2604.28192v1",
+          "reasoning": "Direct advances in vision-language-action models with RL-based reasoning and training-free embodied scene understanding."
+        },
+        {
           "date": "2026-05-01",
           "content": "MotuBrain: An Advanced World Action Model for Robot Control (http://arxiv.org/abs/2604.27792v1) - Vision-Language-Action (VLA) model combining video generation with world action modeling for robotics.",
           "link": "http://arxiv.org/abs/2604.27792v1",
@@ -59,6 +71,12 @@
       "description": "Agents continuously learning by observing and copying other agents.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-02",
+          "content": "CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting (http://arxiv.org/abs/2604.27840v1) - Distributed multi-agent learning framework where agents specialize into roles and collaborate.",
+          "link": "http://arxiv.org/abs/2604.27840v1",
+          "reasoning": "Embodies distributed learning through agent role specialization and collaboration."
+        },
         {
           "date": "2026-05-01",
           "content": "Safe Bilevel Delegation (SBD): A Formal Framework for Runtime Delegation Safety in Multi-Agent Systems (http://arxiv.org/abs/2604.27358v1) - formal framework for safe subtask delegation between LLM agents.",
@@ -86,6 +104,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-02",
+          "content": "Computing Equilibrium beyond Unilateral Deviation (http://arxiv.org/abs/2604.28186v1) extends game-theoretic equilibrium concepts for multi-agent systems. Also: Exploration Hacking: Can LLMs Learn to Resist RL Training? (http://arxiv.org/abs/2604.28182v1) reveals critical failure modes in RL training.",
+          "link": "http://arxiv.org/abs/2604.28186v1",
+          "reasoning": "Intersection of game theory, RL, and verification \u2014 both advancing formal guarantees for AI systems."
+        },
+        {
           "date": "2026-05-01",
           "content": "Global Optimality for Constrained Exploration via Penalty Regularization (http://arxiv.org/abs/2604.28144v1) - connects control theory and RL for constrained maximum-entropy exploration.",
           "link": "http://arxiv.org/abs/2604.28144v1",
@@ -111,6 +135,12 @@
       "description": "Handled by prompt compilers and optimizers (desired-state programming).",
       "score": 5,
       "updates": [
+        {
+          "date": "2026-05-02",
+          "content": "In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks (http://arxiv.org/abs/2604.27891v1) - Directly argues that in-context prompting replaces the need for explicit agent orchestration frameworks.",
+          "link": "http://arxiv.org/abs/2604.27891v1",
+          "reasoning": "Strong evidence for prompt engineering being abstracted away \u2014 in-context prompting subsumes orchestration entirely."
+        },
         {
           "date": "2026-05-01",
           "content": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms (http://arxiv.org/abs/2604.26211v1) - end-to-end framework combining structured meta-prompting with automated code generation.",
@@ -138,6 +168,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-02",
+          "content": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation (http://arxiv.org/abs/2604.28181v1) - Simulates realistic long-horizon productivity work in synthetic computer environments for autonomous AI agents.",
+          "link": "http://arxiv.org/abs/2604.28181v1",
+          "reasoning": "New paradigm for deploying AI agents that work autonomously in user environments, enabling on-demand app distribution."
+        },
+        {
           "date": "2026-05-01",
           "content": "From Unstructured Recall to Schema-Grounded Memory: Reliable AI Memory via Iterative, Schema-Aware Extraction (http://arxiv.org/abs/2604.27906v1) - reliable persistent AI memory for application contexts.",
           "link": "http://arxiv.org/abs/2604.27906v1",
@@ -163,6 +199,12 @@
       "description": "Git evolving to version agent interactions and records of intent.",
       "score": 1,
       "updates": [
+        {
+          "date": "2026-05-02",
+          "content": "OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction (http://arxiv.org/abs/2604.28197v1) - Multiple humans and robots collaborating in real homes, multiadic interaction beyond code-centric workflows.",
+          "link": "http://arxiv.org/abs/2604.28197v1",
+          "reasoning": "New collaboration paradigm with multi-human multi-robot interaction in physical spaces, extending beyond source-code versioning."
+        },
         {
           "date": "2026-05-01",
           "content": "Heterogeneous Scientific Foundation Model Collaboration (http://arxiv.org/abs/2604.27351v1) - agentic LLM systems collaborating across scientific domains beyond language-only interfaces.",
@@ -190,6 +232,12 @@
       "score": 6,
       "updates": [
         {
+          "date": "2026-05-02",
+          "content": "AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images (http://arxiv.org/abs/2604.28177v1) - Comprehensive benchmark for forensically detecting AI-generated images in academic contexts.",
+          "link": "http://arxiv.org/abs/2604.28177v1",
+          "reasoning": "Quality differentiation mechanism for detecting AI-generated slop in academic publishing, raising the bar for authenticated content."
+        },
+        {
           "date": "2026-05-01",
           "content": "DeepSignature: Digitally Signed, Content-Encoding Watermarks for Robust Image Authentication (http://arxiv.org/abs/2604.23016v1) - AI-generated content watermarking and authentication against synthetic slop.",
           "link": "http://arxiv.org/abs/2604.23016v1",
@@ -216,6 +264,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-02",
+          "content": "OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction (http://arxiv.org/abs/2604.28197v1) - Real-time multi-human multi-robot collaboration in homes. Also: FlexiTac: Low-Cost Tactile Sensing for Robotic Systems (http://arxiv.org/abs/2604.28156v1).",
+          "link": "http://arxiv.org/abs/2604.28197v1",
+          "reasoning": "Intelligence moving from digital to physical with real-time collaborative robotics and accessible tactile sensing hardware."
+        },
+        {
           "date": "2026-05-01",
           "content": "3D Generation for Embodied AI and Robotic Simulation: A Survey (http://arxiv.org/abs/2604.26509v1) - comprehensive survey of 3D content generation for physical-world embodied AI.",
           "link": "http://arxiv.org/abs/2604.26509v1",
@@ -241,6 +295,12 @@
       "description": "Human-level certifications for agents replacing knowledge workers.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-02",
+          "content": "AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images (http://arxiv.org/abs/2604.28177v1) - Benchmark for certifying AI content. Also: ANCORA: Learning to Question via Manifold-Anchored Self-Play for Verifiable Reasoning (http://arxiv.org/abs/2604.27644v1).",
+          "link": "http://arxiv.org/abs/2604.28177v1",
+          "reasoning": "Benchmark-based certification frameworks and verifiable reasoning infrastructure for agent quality assurance."
+        },
         {
           "date": "2026-05-01",
           "content": "TRUST: A Framework for Decentralized AI Service v.0.1 (http://arxiv.org/abs/2604.27132v1) - decentralized verification framework for LLMs and multi-agent systems in high-stakes domains.",
