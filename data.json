@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 10:00",
+  "last_updated": "2026-05-04 10:00",
   "predictions": [
     {
       "id": 1,
@@ -7,6 +7,12 @@
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-05-04",
+          "content": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling (http://arxiv.org/abs/2605.00412) - Hamiltonian-constrained world models unifying 2D video gen, 3D reconstruction, and JEPA latent dynamics. Also: World Model for Robot Learning: A Comprehensive Survey (http://arxiv.org/abs/2605.00080) - survey of world models transforming robot learning.",
+          "link": "http://arxiv.org/abs/2605.00412",
+          "reasoning": "New theoretical paradigm for physically-native world models and a comprehensive survey, both advancing toward a ChatGPT-level breakthrough."
+        },
         {
           "date": "2026-05-02",
           "content": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling (http://arxiv.org/abs/2604.28185v1) - Traces the evolution of visual generation toward agentic world models that combine spatial reasoning, persistent state, and interactive editing.",
@@ -46,6 +52,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-04",
+          "content": "Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation (http://arxiv.org/abs/2605.00438) - VLA policy with interleaved text-image reasoning combining spatial constraints and causal order for long-horizon manipulation.",
+          "link": "http://arxiv.org/abs/2605.00438",
+          "reasoning": "VLA model advances with multimodal reasoning traces, furthering the non-language action model paradigm."
+        },
+        {
           "date": "2026-05-02",
           "content": "LaST-R1: Reinforcing Action via Adaptive Physical Latent Reasoning for VLA Models (http://arxiv.org/abs/2604.28192v1) - Applies RL directly to VLA models for robotic manipulation using adaptive physical latent reasoning. Also: FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction (http://arxiv.org/abs/2604.28115v1).",
           "link": "http://arxiv.org/abs/2604.28192v1",
@@ -83,6 +95,12 @@
       "description": "Agents continuously learning by observing and copying other agents.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-04",
+          "content": "FedHarmony: Harmonizing Heterogeneous Label Correlations in Federated Multi-Label Learning (http://arxiv.org/abs/2604.28024) - federated multi-label learning harmonizing distributed label correlations. Also: AdaBFL: Multi-Layer Defensive Adaptive Aggregation for Byzantine-Robust Federated Learning (http://arxiv.org/abs/2604.27434) - robust distributed learning.",
+          "link": "http://arxiv.org/abs/2604.28024",
+          "reasoning": "Advances in distributed/federated learning across heterogeneous data sources, supporting decentralized agent learning."
+        },
         {
           "date": "2026-05-02",
           "content": "CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting (http://arxiv.org/abs/2604.27840v1) - Distributed multi-agent learning framework where agents specialize into roles and collaborate.",
@@ -122,6 +140,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-04",
+          "content": "SAVGO: Learning State-Action Value Geometry with Cosine Similarity for Continuous Control (http://arxiv.org/abs/2605.00787) - geometry-aware RL bridging representation learning and control. Also: Approximations and Learning for Decentralized Stochastic Control (http://arxiv.org/abs/2605.00160) - connects control theory and RL for decentralized control.",
+          "link": "http://arxiv.org/abs/2605.00787",
+          "reasoning": "Convergence of control theory (stochastic control) and RL (value-based learning) for verifiable continuous control."
+        },
+        {
           "date": "2026-05-02",
           "content": "Computing Equilibrium beyond Unilateral Deviation (http://arxiv.org/abs/2604.28186v1) extends game-theoretic equilibrium concepts for multi-agent systems. Also: Exploration Hacking: Can LLMs Learn to Resist RL Training? (http://arxiv.org/abs/2604.28182v1) reveals critical failure modes in RL training.",
           "link": "http://arxiv.org/abs/2604.28186v1",
@@ -159,6 +183,12 @@
       "description": "Handled by prompt compilers and optimizers (desired-state programming).",
       "score": 5,
       "updates": [
+        {
+          "date": "2026-05-04",
+          "content": "Agent Capsules: Quality-Gated Granularity Control for Multi-Agent LLM Pipelines (http://arxiv.org/abs/2605.00410) - adaptive runtime treating multi-agent pipeline execution as optimization, abstracting granularity decisions from developers.",
+          "link": "http://arxiv.org/abs/2605.00410",
+          "reasoning": "Auto-mates agent orchestration granularity, further abstracting prompt/context engineering behind runtime optimization."
+        },
         {
           "date": "2026-05-02",
           "content": "In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks (http://arxiv.org/abs/2604.27891v1) - Directly argues that in-context prompting replaces the need for explicit agent orchestration frameworks.",
@@ -198,6 +228,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-04",
+          "content": "Position: agentic AI orchestration should be Bayes-consistent (http://arxiv.org/abs/2605.00742) - Bayesian decision-making for agent orchestration. Also: Can Coding Agents Reproduce Findings in Computational Materials Science? (http://arxiv.org/abs/2605.00803) - autonomous agent deployment in scientific research.",
+          "link": "http://arxiv.org/abs/2605.00742",
+          "reasoning": "New distribution mechanisms via Bayesian agent orchestration and autonomous scientific agent deployment."
+        },
+        {
           "date": "2026-05-02",
           "content": "Synthetic Computers at Scale for Long-Horizon Productivity Simulation (http://arxiv.org/abs/2604.28181v1) - Simulates realistic long-horizon productivity work in synthetic computer environments for autonomous AI agents.",
           "link": "http://arxiv.org/abs/2604.28181v1",
@@ -235,6 +271,12 @@
       "description": "Git evolving to version agent interactions and records of intent.",
       "score": 1,
       "updates": [
+        {
+          "date": "2026-05-04",
+          "content": "RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution (http://arxiv.org/abs/2605.00798) - multi-agent plan execution from natural language. Also: SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters (http://arxiv.org/abs/2605.00528) - workflow-level scheduling as collaborative units. Also: AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go? (http://arxiv.org/abs/2605.00334) - agent workflow routing.",
+          "link": "http://arxiv.org/abs/2605.00798",
+          "reasoning": "New collaboration paradigms: natural-language multi-agent execution, workflow-atomic scheduling, and model routing for agent teams."
+        },
         {
           "date": "2026-05-02",
           "content": "OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction (http://arxiv.org/abs/2604.28197v1) - Multiple humans and robots collaborating in real homes, multiadic interaction beyond code-centric workflows.",
@@ -274,6 +316,12 @@
       "score": 6,
       "updates": [
         {
+          "date": "2026-05-04",
+          "content": "TimeMark: A Trustworthy Time Watermarking Framework for Exact Generation-Time Recovery from AIGC (http://arxiv.org/abs/2604.12216) - time-provenance watermarking for LLM text. Also: Who Gets Flagged? The Pluralistic Evaluation Gap in AI Content Watermarking (http://arxiv.org/abs/2604.13776) - statistical disparities in watermark detection. Also: UniMark: Unified Adaptive Multi-bit Watermarking for Autoregressive Image Generators (http://arxiv.org/abs/2604.11843).",
+          "link": "http://arxiv.org/abs/2604.12216",
+          "reasoning": "Watermarking maturing rapidly — time-provenance, pluralistic evaluation, and multi-bit image watermarks raise the bar against AI slop."
+        },
+        {
           "date": "2026-05-02",
           "content": "AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images (http://arxiv.org/abs/2604.28177v1) - Comprehensive benchmark for forensically detecting AI-generated images in academic contexts.",
           "link": "http://arxiv.org/abs/2604.28177v1",
@@ -312,6 +360,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-04",
+          "content": "Embodied Interpretability: Linking Causal Understanding to Generalization in VLA Models (http://arxiv.org/abs/2605.00321) - causal understanding in robotic VLA policies. Also: Robot Learning from Human Videos: A Survey (http://arxiv.org/abs/2604.27621) - comprehensive survey of robot learning from video data. Also: KinDER: A Physical Reasoning Benchmark (http://arxiv.org/abs/2604.25788).",
+          "link": "http://arxiv.org/abs/2605.00321",
+          "reasoning": "Intelligence moving physical: causal VLA understanding, robot learning from video, and physical reasoning benchmarks."
+        },
+        {
           "date": "2026-05-02",
           "content": "OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction (http://arxiv.org/abs/2604.28197v1) - Real-time multi-human multi-robot collaboration in homes. Also: FlexiTac: Low-Cost Tactile Sensing for Robotic Systems (http://arxiv.org/abs/2604.28156v1).",
           "link": "http://arxiv.org/abs/2604.28197v1",
@@ -349,6 +403,12 @@
       "description": "Human-level certifications for agents replacing knowledge workers.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-04",
+          "content": "AgentReputation: A Decentralized Agentic AI Reputation Framework (http://arxiv.org/abs/2605.00073) - decentralized reputation for agent marketplaces. Also: Agent Name Service (ANS): Trust Layer for Secure AI Agent Discovery, Identity, and Governance in Kubernetes (http://arxiv.org/abs/2604.26997). Also: SciHorizon-DataEVA: Agentic AI-Readiness Evaluation (http://arxiv.org/abs/2604.26645).",
+          "link": "http://arxiv.org/abs/2605.00073",
+          "reasoning": "Certification infrastructure advancing: decentralized reputation, Kubernetes identity/governance, and AI-readiness evaluation."
+        },
         {
           "date": "2026-05-02",
           "content": "AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images (http://arxiv.org/abs/2604.28177v1) - Benchmark for certifying AI content. Also: ANCORA: Learning to Question via Manifold-Anchored Self-Play for Verifiable Reasoning (http://arxiv.org/abs/2604.27644v1).",
