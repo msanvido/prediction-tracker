@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 10:00",
+  "last_updated": "2026-05-06 10:00",
   "predictions": [
     {
       "id": 1,
@@ -8,10 +8,28 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "A Benchmark for Interactive World Models with a Unified Action Generation Framework (http://arxiv.org/abs/2605.03941) - first large-scale benchmark and unified action generation framework for evaluating interactive world models. Also: RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models (http://arxiv.org/abs/2605.03821) - aligns robot video world models with instruction following and physical plausibility via multimodal reward distillation.",
+          "link": "http://arxiv.org/abs/2605.03941",
+          "reasoning": "New benchmark infrastructure for interactive world models and alignment techniques for robot video world models, both addressing key gaps on the path to a ChatGPT-level breakthrough for world models."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "Shadow-Loom: Causal Reasoning over Graphical World Model of Narratives (http://arxiv.org/abs/2605.02475) - turns narratives into versioned graphical world models with causal reasoning. Also: Embody4D: A Generalist 4D World Model for Embodied AI (http://arxiv.org/abs/2605.01799) - generalist 4D world model for embodied AI across multi-view 3D representation.",
+          "link": "http://arxiv.org/abs/2605.02475",
+          "reasoning": "New causal world model framework for narratives and a generalist 4D world model for embodied AI, advancing toward a ChatGPT-level breakthrough for world models."
+        },
+        {
           "date": "2026-05-04",
           "content": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling (http://arxiv.org/abs/2605.00412) - Hamiltonian-constrained world models unifying 2D video gen, 3D reconstruction, and JEPA latent dynamics. Also: World Model for Robot Learning: A Comprehensive Survey (http://arxiv.org/abs/2605.00080) - survey of world models transforming robot learning.",
           "link": "http://arxiv.org/abs/2605.00412",
           "reasoning": "New theoretical paradigm for physically-native world models and a comprehensive survey, both advancing toward a ChatGPT-level breakthrough."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "World2Minecraft: Occupancy-Driven Simulated Scenes Construction (http://arxiv.org/abs/2604.27578v1) - Constructs simulation environments from real-world occupancy data, advancing world model infrastructure.",
+          "link": "http://arxiv.org/abs/2604.27578v1",
+          "reasoning": "World model simulation infrastructure advances, bringing embodied world models closer to practical deployment."
         },
         {
           "date": "2026-05-02",
@@ -36,18 +54,6 @@
           "content": "How Fast Should a Model Commit to Supervision? (https://arxiv.org/abs/2604.25907v1) discusses training reasoning models.",
           "link": "https://arxiv.org/abs/2604.25907v1",
           "reasoning": "New research relevant to world models."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "World2Minecraft: Occupancy-Driven Simulated Scenes Construction (http://arxiv.org/abs/2604.27578v1) - Constructs simulation environments from real-world occupancy data, advancing world model infrastructure.",
-          "link": "http://arxiv.org/abs/2604.27578v1",
-          "reasoning": "World model simulation infrastructure advances, bringing embodied world models closer to practical deployment."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "Shadow-Loom: Causal Reasoning over Graphical World Model of Narratives (http://arxiv.org/abs/2605.02475) - turns narratives into versioned graphical world models with causal reasoning. Also: Embody4D: A Generalist 4D World Model for Embodied AI (http://arxiv.org/abs/2605.01799) - generalist 4D world model for embodied AI across multi-view 3D representation.",
-          "link": "http://arxiv.org/abs/2605.02475",
-          "reasoning": "New causal world model framework for narratives and a generalist 4D world model for embodied AI, advancing toward a ChatGPT-level breakthrough for world models."
         }
       ]
     },
@@ -58,10 +64,28 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "RLDX-1 Technical Report (http://arxiv.org/abs/2605.03269) - addresses VLA generalization challenges through task decomposition, enabling generalist robotic policies to handle diverse manipulation tasks with improved robustness.",
+          "link": "http://arxiv.org/abs/2605.03269",
+          "reasoning": "New VLA approach tackling the key challenge of task diversity and generalization in generalist robotic policies, advancing the non-language action model paradigm."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "Seeing Realism from Simulation: Efficient Video Transfer for VLA Data Augmentation (http://arxiv.org/abs/2605.02757) - sim-to-real VLA data augmentation. Also: MolmoAct2: Action Reasoning Models for Real-world Deployment (http://arxiv.org/abs/2605.02881) - action reasoning VLA for real-world robots. Also: Latent Bridge: Feature Delta Prediction for Efficient Dual-System VLA Inference (http://arxiv.org/abs/2605.02739). Also: VILAS: Low-cost VLA Platform with Soft Grasping (http://arxiv.org/abs/2605.02037).",
+          "link": "http://arxiv.org/abs/2605.02881",
+          "reasoning": "VLA momentum accelerating \u2014 MolmoAct2 for real-world deployment, sim-to-real transfer for data augmentation, efficient dual-system inference, and low-cost hardware for VLA policy learning."
+        },
+        {
           "date": "2026-05-04",
           "content": "Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation (http://arxiv.org/abs/2605.00438) - VLA policy with interleaved text-image reasoning combining spatial constraints and causal order for long-horizon manipulation.",
           "link": "http://arxiv.org/abs/2605.00438",
           "reasoning": "VLA model advances with multimodal reasoning traces, furthering the non-language action model paradigm."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "A Pattern Language for Resilient Visual Agents (http://arxiv.org/abs/2604.28001v1) - Software architecture patterns for deploying multimodal foundation models (including VLAs) in enterprise ecosystems.",
+          "link": "http://arxiv.org/abs/2604.28001v1",
+          "reasoning": "Architecture patterns enabling resilient VLA-based visual agents for production deployment."
         },
         {
           "date": "2026-05-02",
@@ -86,18 +110,6 @@
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) explores VLA-related benchmarking.",
           "link": "https://arxiv.org/abs/2604.25914v1",
           "reasoning": "Advancements in agentic benchmarking."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "A Pattern Language for Resilient Visual Agents (http://arxiv.org/abs/2604.28001v1) - Software architecture patterns for deploying multimodal foundation models (including VLAs) in enterprise ecosystems.",
-          "link": "http://arxiv.org/abs/2604.28001v1",
-          "reasoning": "Architecture patterns enabling resilient VLA-based visual agents for production deployment."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "Seeing Realism from Simulation: Efficient Video Transfer for VLA Data Augmentation (http://arxiv.org/abs/2605.02757) - sim-to-real VLA data augmentation. Also: MolmoAct2: Action Reasoning Models for Real-world Deployment (http://arxiv.org/abs/2605.02881) - action reasoning VLA for real-world robots. Also: Latent Bridge: Feature Delta Prediction for Efficient Dual-System VLA Inference (http://arxiv.org/abs/2605.02739). Also: VILAS: Low-cost VLA Platform with Soft Grasping (http://arxiv.org/abs/2605.02037).",
-          "link": "http://arxiv.org/abs/2605.02881",
-          "reasoning": "VLA momentum accelerating \u2014 MolmoAct2 for real-world deployment, sim-to-real transfer for data augmentation, efficient dual-system inference, and low-cost hardware for VLA policy learning."
         }
       ]
     },
@@ -108,10 +120,28 @@
       "score": 2,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "Mechanical Conscience: A Mathematical Framework for Dependability of Machine Intelligence (http://arxiv.org/abs/2605.03847) - formal framework for dependability in distributed collaborative intelligence (DCI) systems. Also: Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design (http://arxiv.org/abs/2605.00931) - rethinks hierarchy in federated learning as a fundamental distributed optimization structure.",
+          "link": "http://arxiv.org/abs/2605.03847",
+          "reasoning": "Advances in distributed collaborative intelligence through formal dependability frameworks and architecture-aware federated learning, strengthening the distributed learning paradigm."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "When Stress Becomes Signal: Detecting Antifragility-Compatible Regimes in Multi-Agent LLM Systems (http://arxiv.org/abs/2605.02463) - multi-agent LLM systems studied for stress-tolerance. Also: Planner Matters! An Efficient Multi-agent Collaboration Framework for Long-horizon Planning (http://arxiv.org/abs/2605.02168).",
+          "link": "http://arxiv.org/abs/2605.02463",
+          "reasoning": "Distributed learning through multi-agent LLM systems: antifragility analysis of multi-agent collaboration and efficient planning frameworks for long-horizon tasks."
+        },
+        {
           "date": "2026-05-04",
           "content": "FedHarmony: Harmonizing Heterogeneous Label Correlations in Federated Multi-Label Learning (http://arxiv.org/abs/2604.28024) - federated multi-label learning harmonizing distributed label correlations. Also: AdaBFL: Multi-Layer Defensive Adaptive Aggregation for Byzantine-Robust Federated Learning (http://arxiv.org/abs/2604.27434) - robust distributed learning.",
           "link": "http://arxiv.org/abs/2604.28024",
           "reasoning": "Advances in distributed/federated learning across heterogeneous data sources, supporting decentralized agent learning."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "GUI Agents with Reinforcement Learning: Toward Digital Inhabitants (http://arxiv.org/abs/2604.27955v1) - Applies RL to GUI agents so they continuously learn digital environments. Also: AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling (http://arxiv.org/abs/2604.27253v1) - web agents learning autonomously by surfing and modeling.",
+          "link": "http://arxiv.org/abs/2604.27955v1",
+          "reasoning": "Distributed learning through agent-environment interaction: GUI agents learning via RL and web agents learning autonomously."
         },
         {
           "date": "2026-05-02",
@@ -136,18 +166,6 @@
           "content": "Recursive Multi-Agent Systems (https://arxiv.org/abs/2604.25917v1) explores distributed agent learning.",
           "link": "https://arxiv.org/abs/2604.25917v1",
           "reasoning": "Direct research on multi-agent learning."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "GUI Agents with Reinforcement Learning: Toward Digital Inhabitants (http://arxiv.org/abs/2604.27955v1) - Applies RL to GUI agents so they continuously learn digital environments. Also: AutoSurfer -- Teaching Web Agents through Comprehensive Surfing, Learning, and Modeling (http://arxiv.org/abs/2604.27253v1) - web agents learning autonomously by surfing and modeling.",
-          "link": "http://arxiv.org/abs/2604.27955v1",
-          "reasoning": "Distributed learning through agent-environment interaction: GUI agents learning via RL and web agents learning autonomously."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "When Stress Becomes Signal: Detecting Antifragility-Compatible Regimes in Multi-Agent LLM Systems (http://arxiv.org/abs/2605.02463) - multi-agent LLM systems studied for stress-tolerance. Also: Planner Matters! An Efficient Multi-agent Collaboration Framework for Long-horizon Planning (http://arxiv.org/abs/2605.02168).",
-          "link": "http://arxiv.org/abs/2605.02463",
-          "reasoning": "Distributed learning through multi-agent LLM systems: antifragility analysis of multi-agent collaboration and efficient planning frameworks for long-horizon tasks."
         }
       ]
     },
@@ -158,10 +176,28 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "Lyapunov-Guided Self-Alignment: Test-Time Adaptation for Offline Safe Reinforcement Learning (http://arxiv.org/abs/2604.26516) - uses Lyapunov functions (control theory) to guide safe self-alignment in offline RL at test time. Also: Model-Based Proactive Cost Generation for Learning Safe Policies Offline with Limited Violation Data (http://arxiv.org/abs/2605.01356) - model-based safety cost generation for offline RL in safety-critical domains.",
+          "link": "http://arxiv.org/abs/2604.26516",
+          "reasoning": "Direct convergence of control theory (Lyapunov functions) with RL for safe policy adaptation and model-based safety guarantees, advancing the intersection of formal methods and reinforcement learning."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters (http://arxiv.org/abs/2605.02867) - RL generalization analysis via SHAP for robotics control. Also: A Relative Ignorability Framework for Decision-Relevant Observability in Control Theory and RL (http://arxiv.org/abs/2504.07722v6).",
+          "link": "http://arxiv.org/abs/2605.02867",
+          "reasoning": "Convergence of RL and control theory through interpretability analysis of RL for robotics and formal frameworks bridging control theory observability with RL decision-making."
+        },
+        {
           "date": "2026-05-04",
           "content": "SAVGO: Learning State-Action Value Geometry with Cosine Similarity for Continuous Control (http://arxiv.org/abs/2605.00787) - geometry-aware RL bridging representation learning and control. Also: Approximations and Learning for Decentralized Stochastic Control (http://arxiv.org/abs/2605.00160) - connects control theory and RL for decentralized control.",
           "link": "http://arxiv.org/abs/2605.00787",
           "reasoning": "Convergence of control theory (stochastic control) and RL (value-based learning) for verifiable continuous control."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "Uncertainty-Aware Predictive Safety Filters for Probabilistic Neural Network Dynamics (http://arxiv.org/abs/2604.26836v1) - Combines model predictive control with probabilistic neural networks for safe RL exploration. Also: PALCAS: A Priority-Aware Lane Change Advisory System using Federated RL (http://arxiv.org/abs/2604.27118v1) - Federated RL with control-theoretic safety for autonomous vehicles.",
+          "link": "http://arxiv.org/abs/2604.26836v1",
+          "reasoning": "Direct convergence of control theory (predictive safety filters, MPC) and RL (probabilistic NNs, federated RL) for safe autonomous systems."
         },
         {
           "date": "2026-05-02",
@@ -186,18 +222,6 @@
           "content": "How Fast Should a Model Commit to Supervision? (https://arxiv.org/abs/2604.25907v1) - training stability and supervision.",
           "link": "https://arxiv.org/abs/2604.25907v1",
           "reasoning": "Supervision dynamics in RL training."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "Uncertainty-Aware Predictive Safety Filters for Probabilistic Neural Network Dynamics (http://arxiv.org/abs/2604.26836v1) - Combines model predictive control with probabilistic neural networks for safe RL exploration. Also: PALCAS: A Priority-Aware Lane Change Advisory System using Federated RL (http://arxiv.org/abs/2604.27118v1) - Federated RL with control-theoretic safety for autonomous vehicles.",
-          "link": "http://arxiv.org/abs/2604.26836v1",
-          "reasoning": "Direct convergence of control theory (predictive safety filters, MPC) and RL (probabilistic NNs, federated RL) for safe autonomous systems."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters (http://arxiv.org/abs/2605.02867) - RL generalization analysis via SHAP for robotics control. Also: A Relative Ignorability Framework for Decision-Relevant Observability in Control Theory and RL (http://arxiv.org/abs/2504.07722v6).",
-          "link": "http://arxiv.org/abs/2605.02867",
-          "reasoning": "Convergence of RL and control theory through interpretability analysis of RL for robotics and formal frameworks bridging control theory observability with RL decision-making."
         }
       ]
     },
@@ -208,10 +232,28 @@
       "score": 5,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents (http://arxiv.org/abs/2604.27233) - replaces prompt tuning with inference-time feedback, eliminating manual prompt engineering for tool-calling agents. Also: Learning Evidence Highlighting for Frozen LLMs (http://arxiv.org/abs/2604.22565) - automatically optimizes how context is presented to frozen LLMs, abstracting away evidence selection from reasoning.",
+          "link": "http://arxiv.org/abs/2604.27233",
+          "reasoning": "Two advances in abstracting prompt engineering: inference-time feedback replaces manual prompt tuning entirely, and automatic context optimization separates evidence selection from reasoning."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization (http://arxiv.org/abs/2604.20726v2) - automatic task prompt optimization. Also: ContraPrompt: Contrastive Prompt Optimization via Dyadic Reasoning Trace Analysis (http://arxiv.org/abs/2604.17937). Also: Prompt Optimization Enables Stable Algorithmic Collusion in LLM Agents (http://arxiv.org/abs/2604.17774).",
+          "link": "http://arxiv.org/abs/2604.20726v2",
+          "reasoning": "Prompt optimization continues to mature as an automated discipline, with contrastive optimization, legal-domain automation, and market stability analysis \u2014 pushing prompt engineering further behind the scenes."
+        },
+        {
           "date": "2026-05-04",
           "content": "Agent Capsules: Quality-Gated Granularity Control for Multi-Agent LLM Pipelines (http://arxiv.org/abs/2605.00410) - adaptive runtime treating multi-agent pipeline execution as optimization, abstracting granularity decisions from developers.",
           "link": "http://arxiv.org/abs/2605.00410",
           "reasoning": "Auto-mates agent orchestration granularity, further abstracting prompt/context engineering behind runtime optimization."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "Co-Director: Agentic Generative Video Storytelling (http://arxiv.org/abs/2604.24842v1) - Automated agentic pipeline for video storytelling that abstracts away prompt engineering into high-level creative direction.",
+          "link": "http://arxiv.org/abs/2604.24842v1",
+          "reasoning": "Agentic pipeline abstraction that hides prompt-level complexity behind higher-level creative intent specification."
         },
         {
           "date": "2026-05-02",
@@ -236,18 +278,6 @@
           "content": "How Fast Should a Model Commit to Supervision? (https://arxiv.org/abs/2604.25907v1) - implications for training automation.",
           "link": "https://arxiv.org/abs/2604.25907v1",
           "reasoning": "Research related to training efficiency."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "Co-Director: Agentic Generative Video Storytelling (http://arxiv.org/abs/2604.24842v1) - Automated agentic pipeline for video storytelling that abstracts away prompt engineering into high-level creative direction.",
-          "link": "http://arxiv.org/abs/2604.24842v1",
-          "reasoning": "Agentic pipeline abstraction that hides prompt-level complexity behind higher-level creative intent specification."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "Exploiting LLM-as-a-Judge Disposition on Free Text Legal QA via Prompt Optimization (http://arxiv.org/abs/2604.20726v2) - automatic task prompt optimization. Also: ContraPrompt: Contrastive Prompt Optimization via Dyadic Reasoning Trace Analysis (http://arxiv.org/abs/2604.17937). Also: Prompt Optimization Enables Stable Algorithmic Collusion in LLM Agents (http://arxiv.org/abs/2604.17774).",
-          "link": "http://arxiv.org/abs/2604.20726v2",
-          "reasoning": "Prompt optimization continues to mature as an automated discipline, with contrastive optimization, legal-domain automation, and market stability analysis \u2014 pushing prompt engineering further behind the scenes."
         }
       ]
     },
@@ -258,10 +288,28 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "Scalable Inference Architectures for Compound AI Systems: A Production Deployment Study (http://arxiv.org/abs/2604.25724) - production deployment study of compound AI systems that compose models, retrievers, and tools, enabling on-demand AI application delivery. Also: Think Before You Act -- A Neurocognitive Governance Model for Autonomous AI Agents (http://arxiv.org/abs/2604.25684) - governance model enabling safe real-world deployment of autonomous agents.",
+          "link": "http://arxiv.org/abs/2604.25724",
+          "reasoning": "New distribution infrastructure for compound AI systems in production and governance frameworks enabling safe agent deployment, advancing the paradigm of shipping AI capabilities instead of traditional software."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "Building Persona-Based Agents On Demand: Tailoring Multi-Agent Workflows to User Needs (http://arxiv.org/abs/2604.27882) - on-demand persona-based multi-agent deployment. Also: A Compound AI Agent for Conversational Grant Discovery (http://arxiv.org/abs/2605.02366) - domain-specific agent distribution. Also: LiveFMBench: Unveiling Agentic Workflows in Specification Generation (http://arxiv.org/abs/2605.01394).",
+          "link": "http://arxiv.org/abs/2604.27882",
+          "reasoning": "New distribution mechanisms for agentic AI: on-demand persona-based agent workflows, conversational grant discovery agents, and agentic specification generation \u2014 shipping capabilities instead of code."
+        },
+        {
           "date": "2026-05-04",
           "content": "Position: agentic AI orchestration should be Bayes-consistent (http://arxiv.org/abs/2605.00742) - Bayesian decision-making for agent orchestration. Also: Can Coding Agents Reproduce Findings in Computational Materials Science? (http://arxiv.org/abs/2605.00803) - autonomous agent deployment in scientific research.",
           "link": "http://arxiv.org/abs/2605.00742",
           "reasoning": "New distribution mechanisms via Bayesian agent orchestration and autonomous scientific agent deployment."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "Addressing the Reality Gap: A Three-Tension Framework for Agentic AI Adoption (http://arxiv.org/abs/2604.27245v1) - Framework for deploying autonomous agentic AI systems in real-world contexts. Also: Scalable Inference Architectures for Compound AI Systems (http://arxiv.org/abs/2604.25724v1) - Production deployment patterns for compound AI applications.",
+          "link": "http://arxiv.org/abs/2604.27245v1",
+          "reasoning": "New deployment and distribution architectures enabling on-demand agentic AI in real-world applications."
         },
         {
           "date": "2026-05-02",
@@ -286,18 +334,6 @@
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) - new agent evaluation mechanisms.",
           "link": "https://arxiv.org/abs/2604.25914v1",
           "reasoning": "Advancements in agentic application deployment."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "Addressing the Reality Gap: A Three-Tension Framework for Agentic AI Adoption (http://arxiv.org/abs/2604.27245v1) - Framework for deploying autonomous agentic AI systems in real-world contexts. Also: Scalable Inference Architectures for Compound AI Systems (http://arxiv.org/abs/2604.25724v1) - Production deployment patterns for compound AI applications.",
-          "link": "http://arxiv.org/abs/2604.27245v1",
-          "reasoning": "New deployment and distribution architectures enabling on-demand agentic AI in real-world applications."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "Building Persona-Based Agents On Demand: Tailoring Multi-Agent Workflows to User Needs (http://arxiv.org/abs/2604.27882) - on-demand persona-based multi-agent deployment. Also: A Compound AI Agent for Conversational Grant Discovery (http://arxiv.org/abs/2605.02366) - domain-specific agent distribution. Also: LiveFMBench: Unveiling Agentic Workflows in Specification Generation (http://arxiv.org/abs/2605.01394).",
-          "link": "http://arxiv.org/abs/2604.27882",
-          "reasoning": "New distribution mechanisms for agentic AI: on-demand persona-based agent workflows, conversational grant discovery agents, and agentic specification generation \u2014 shipping capabilities instead of code."
         }
       ]
     },
@@ -308,10 +344,28 @@
       "score": 1,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration (http://arxiv.org/abs/2605.03042) - open-source research harness enabling autonomous scientific discovery through adversarial multi-agent collaboration. Also: PrismAgent: Illuminating Harm in Memes via a Zero-Shot Interpretable Multi-Agent Framework (http://arxiv.org/abs/2605.02940) - multi-agent collaboration for content moderation without training.",
+          "link": "http://arxiv.org/abs/2605.03042",
+          "reasoning": "New collaboration paradigms for autonomous research through adversarial multi-agent teams and interpretable multi-agent frameworks for content moderation, extending collaboration beyond code to knowledge creation and social reasoning."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "Breaking the Communication-Accuracy Trade-off: A Sparsified Information Diffusion Framework for Multi-Agent Collaborative Perception (http://arxiv.org/abs/2605.00946) - communication-efficient multi-agent collaboration. Also: DySRec: Dynamic Context-Aware Multi-Agent Collaboration (http://arxiv.org/abs/2605.00574).",
+          "link": "http://arxiv.org/abs/2605.00946",
+          "reasoning": "New collaboration paradigms beyond code: sparsified information diffusion for multi-agent perception teams and context-aware psychological collaboration \u2014 moving toward interaction-level versioning."
+        },
+        {
           "date": "2026-05-04",
           "content": "RunAgent: Interpreting Natural-Language Plans with Constraint-Guided Execution (http://arxiv.org/abs/2605.00798) - multi-agent plan execution from natural language. Also: SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters (http://arxiv.org/abs/2605.00528) - workflow-level scheduling as collaborative units. Also: AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go? (http://arxiv.org/abs/2605.00334) - agent workflow routing.",
           "link": "http://arxiv.org/abs/2605.00798",
           "reasoning": "New collaboration paradigms: natural-language multi-agent execution, workflow-atomic scheduling, and model routing for agent teams."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "AgentEconomist: An End-to-end Agentic System Translating Economic Intuitions into Executable Experiments (http://arxiv.org/abs/2604.27725v1) - Agents collaborating beyond code to translate economic theory into computational experiments. Also: The Inverse-Wisdom Law: Architectural Tribalism and the Consensus Paradox in Agentic Swarms (http://arxiv.org/abs/2604.27274v1) - challenges assumptions about multi-agent collaboration.",
+          "link": "http://arxiv.org/abs/2604.27725v1",
+          "reasoning": "New collaboration paradigms where agents work together on knowledge creation, moving beyond source-code versioning to idea-to-experiment workflows."
         },
         {
           "date": "2026-05-02",
@@ -336,18 +390,6 @@
           "content": "Recursive Multi-Agent Systems (https://arxiv.org/abs/2604.25917v1) - interactions as fundamental units.",
           "link": "https://arxiv.org/abs/2604.25917v1",
           "reasoning": "Agentic collaboration research."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "AgentEconomist: An End-to-end Agentic System Translating Economic Intuitions into Executable Experiments (http://arxiv.org/abs/2604.27725v1) - Agents collaborating beyond code to translate economic theory into computational experiments. Also: The Inverse-Wisdom Law: Architectural Tribalism and the Consensus Paradox in Agentic Swarms (http://arxiv.org/abs/2604.27274v1) - challenges assumptions about multi-agent collaboration.",
-          "link": "http://arxiv.org/abs/2604.27725v1",
-          "reasoning": "New collaboration paradigms where agents work together on knowledge creation, moving beyond source-code versioning to idea-to-experiment workflows."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "Breaking the Communication-Accuracy Trade-off: A Sparsified Information Diffusion Framework for Multi-Agent Collaborative Perception (http://arxiv.org/abs/2605.00946) - communication-efficient multi-agent collaboration. Also: DySRec: Dynamic Context-Aware Multi-Agent Collaboration (http://arxiv.org/abs/2605.00574).",
-          "link": "http://arxiv.org/abs/2605.00946",
-          "reasoning": "New collaboration paradigms beyond code: sparsified information diffusion for multi-agent perception teams and context-aware psychological collaboration \u2014 moving toward interaction-level versioning."
         }
       ]
     },
@@ -358,10 +400,28 @@
       "score": 6,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment (http://arxiv.org/abs/2604.25370) - first published dataset analyzing real-world AI-generated images from GPT-Image-2 deployment. Also: IncreFA: Breaking the Static Wall of Generative Model Attribution (http://arxiv.org/abs/2604.17736) - dynamic attribution framework that keeps pace with rapidly evolving generative models.",
+          "link": "http://arxiv.org/abs/2604.25370",
+          "reasoning": "AI slop detection advancing into the real world with the first GPT-Image-2 deployment dataset and dynamic attribution that adapts to model evolution, both raising the bar for authenticated content."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "Automated In-the-Wild Data Collection for Continual AI Generated Image Detection (http://arxiv.org/abs/2605.02567) - continual learning for AI-gen image detection. Also: MelShield: Robust Mel-Domain Audio Watermarking for AI Generated Speech (http://arxiv.org/abs/2605.01515). Also: Fine-Tuning Pre-Trained Code Models for AI-Generated Code Detection (http://arxiv.org/abs/2605.01596).",
+          "link": "http://arxiv.org/abs/2605.02567",
+          "reasoning": "AI slop detection maturing across modalities: continual image detection, audio watermarking for speech provenance, and code generation detection \u2014 raising the bar for authenticated content."
+        },
+        {
           "date": "2026-05-04",
           "content": "TimeMark: A Trustworthy Time Watermarking Framework for Exact Generation-Time Recovery from AIGC (http://arxiv.org/abs/2604.12216) - time-provenance watermarking for LLM text. Also: Who Gets Flagged? The Pluralistic Evaluation Gap in AI Content Watermarking (http://arxiv.org/abs/2604.13776) - statistical disparities in watermark detection. Also: UniMark: Unified Adaptive Multi-bit Watermarking for Autoregressive Image Generators (http://arxiv.org/abs/2604.11843).",
           "link": "http://arxiv.org/abs/2604.12216",
           "reasoning": "Watermarking maturing rapidly \u2014 time-provenance, pluralistic evaluation, and multi-bit image watermarks raise the bar against AI slop."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "DYMAPIA: A Multi-Domain Framework for Detecting AI-based Video Manipulation (http://arxiv.org/abs/2604.24426v1) - Multi-domain deepfake detection framework. Also: Dual-Guard: Dual-Channel Latent Watermarking for Provenance and Tamper Localization (http://arxiv.org/abs/2604.19090v1) - watermarking for AI-generated content authentication.",
+          "link": "http://arxiv.org/abs/2604.24426v1",
+          "reasoning": "Detection and authentication mechanisms evolving to counter AI-generated slop, raising the bar for verified content quality."
         },
         {
           "date": "2026-05-02",
@@ -386,18 +446,6 @@
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) - focus on data viz benchmark quality.",
           "link": "https://arxiv.org/abs/2604.25914v1",
           "reasoning": "New research focusing on agent evaluation quality."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "DYMAPIA: A Multi-Domain Framework for Detecting AI-based Video Manipulation (http://arxiv.org/abs/2604.24426v1) - Multi-domain deepfake detection framework. Also: Dual-Guard: Dual-Channel Latent Watermarking for Provenance and Tamper Localization (http://arxiv.org/abs/2604.19090v1) - watermarking for AI-generated content authentication.",
-          "link": "http://arxiv.org/abs/2604.24426v1",
-          "reasoning": "Detection and authentication mechanisms evolving to counter AI-generated slop, raising the bar for verified content quality."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "Automated In-the-Wild Data Collection for Continual AI Generated Image Detection (http://arxiv.org/abs/2605.02567) - continual learning for AI-gen image detection. Also: MelShield: Robust Mel-Domain Audio Watermarking for AI Generated Speech (http://arxiv.org/abs/2605.01515). Also: Fine-Tuning Pre-Trained Code Models for AI-Generated Code Detection (http://arxiv.org/abs/2605.01596).",
-          "link": "http://arxiv.org/abs/2605.02567",
-          "reasoning": "AI slop detection maturing across modalities: continual image detection, audio watermarking for speech provenance, and code generation detection \u2014 raising the bar for authenticated content."
         }
       ]
     },
@@ -408,10 +456,28 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning (http://arxiv.org/abs/2604.25459) - massively parallel photorealistic simulator enabling vision-informed robot policy learning at scale. Also: PhysCodeBench: Benchmarking Physics-Aware Symbolic Simulation of 3D Scenes via Self-Corrective Multi-Agent Refinement (http://arxiv.org/abs/2604.23580) - benchmarks physics-aware symbolic simulation translating natural language into executable 3D simulations.",
+          "link": "http://arxiv.org/abs/2604.25459",
+          "reasoning": "Intelligence moving to physical through high-throughput photorealistic robot simulators and physics-aware symbolic simulation that bridges natural language to executable physical environments."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "Embody4D: A Generalist 4D World Model for Embodied AI (http://arxiv.org/abs/2605.01799) - 4D world model bridging digital to physical. Also: MolmoAct2: Action Reasoning Models for Real-world Deployment (http://arxiv.org/abs/2605.02881) - real-world VLA robot deployment. Also: VILAS: Low-cost VLA Platform (http://arxiv.org/abs/2605.02037).",
+          "link": "http://arxiv.org/abs/2605.01799",
+          "reasoning": "Intelligence moving to physical: 4D world model for embodied AI, real-world robot deployment with MolmoAct2, and low-cost accessible robotics hardware democratizing physical intelligence."
+        },
+        {
           "date": "2026-05-04",
           "content": "Embodied Interpretability: Linking Causal Understanding to Generalization in VLA Models (http://arxiv.org/abs/2605.00321) - causal understanding in robotic VLA policies. Also: Robot Learning from Human Videos: A Survey (http://arxiv.org/abs/2604.27621) - comprehensive survey of robot learning from video data. Also: KinDER: A Physical Reasoning Benchmark (http://arxiv.org/abs/2604.25788).",
           "link": "http://arxiv.org/abs/2605.00321",
           "reasoning": "Intelligence moving physical: causal VLA understanding, robot learning from video, and physical reasoning benchmarks."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "Rule-VLN: Bridging Perception and Compliance via Semantic Reasoning and Geometric Rectification (http://arxiv.org/abs/2604.16993v1) - Embodied AI navigation agents evolving from reachability to social compliance. Also: PhyMix: Physically Consistent 3D Indoor Scene Generation (http://arxiv.org/abs/2604.10125v1) - physically grounded 3D generation for robotics and embodied AI.",
+          "link": "http://arxiv.org/abs/2604.16993v1",
+          "reasoning": "Intelligence moving to the physical world through embodied navigation with social compliance and physically consistent 3D scene understanding."
         },
         {
           "date": "2026-05-02",
@@ -436,18 +502,6 @@
           "content": "Recursive Multi-Agent Systems (https://arxiv.org/abs/2604.25917v1) - relevance to system-level physical automation.",
           "link": "https://arxiv.org/abs/2604.25917v1",
           "reasoning": "System architecture research."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "Rule-VLN: Bridging Perception and Compliance via Semantic Reasoning and Geometric Rectification (http://arxiv.org/abs/2604.16993v1) - Embodied AI navigation agents evolving from reachability to social compliance. Also: PhyMix: Physically Consistent 3D Indoor Scene Generation (http://arxiv.org/abs/2604.10125v1) - physically grounded 3D generation for robotics and embodied AI.",
-          "link": "http://arxiv.org/abs/2604.16993v1",
-          "reasoning": "Intelligence moving to the physical world through embodied navigation with social compliance and physically consistent 3D scene understanding."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "Embody4D: A Generalist 4D World Model for Embodied AI (http://arxiv.org/abs/2605.01799) - 4D world model bridging digital to physical. Also: MolmoAct2: Action Reasoning Models for Real-world Deployment (http://arxiv.org/abs/2605.02881) - real-world VLA robot deployment. Also: VILAS: Low-cost VLA Platform (http://arxiv.org/abs/2605.02037).",
-          "link": "http://arxiv.org/abs/2605.01799",
-          "reasoning": "Intelligence moving to physical: 4D world model for embodied AI, real-world robot deployment with MolmoAct2, and low-cost accessible robotics hardware democratizing physical intelligence."
         }
       ]
     },
@@ -458,10 +512,28 @@
       "score": 2,
       "updates": [
         {
+          "date": "2026-05-06",
+          "content": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation (http://arxiv.org/abs/2605.03986) - automated agent workflow composition and recommendation, certifying agent selection for user intents. Also: Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies (http://arxiv.org/abs/2605.03596) - benchmarks agents on complex workspace tasks with heterogeneous file dependencies. Also: AcademiClaw: When Students Set Challenges for AI Agents (http://arxiv.org/abs/2605.02661) - academic-level benchmark authored by university students for evaluating sophisticated agent capabilities.",
+          "link": "http://arxiv.org/abs/2605.03986",
+          "reasoning": "Agent certification infrastructure expanding: automated agent recommendation for workflow certification, workspace task benchmarks with complex file dependencies, and academic-level benchmarks challenging agents with real student-designed tasks."
+        },
+        {
+          "date": "2026-05-05",
+          "content": "DataClaw: A Process-Oriented Agent Benchmark for Exploratory Real-World Data Analysis (http://arxiv.org/abs/2605.02503) - benchmark for autonomous data analysis agents. Also: 12 Angry AI Agents: Evaluating Multi-Agent LLM Decision-Making (http://arxiv.org/abs/2605.01986) - novel multi-agent evaluation framework. Also: Claw-Eval-Live: Live Agent Benchmark (http://arxiv.org/abs/2604.28139v2).",
+          "link": "http://arxiv.org/abs/2605.02503",
+          "reasoning": "Agent certification infrastructure expanding: process-oriented data analysis benchmarks, cinematic jury-style multi-agent evaluation, and live-updating benchmarks that track evolving workflows."
+        },
+        {
           "date": "2026-05-04",
           "content": "AgentReputation: A Decentralized Agentic AI Reputation Framework (http://arxiv.org/abs/2605.00073) - decentralized reputation for agent marketplaces. Also: Agent Name Service (ANS): Trust Layer for Secure AI Agent Discovery, Identity, and Governance in Kubernetes (http://arxiv.org/abs/2604.26997). Also: SciHorizon-DataEVA: Agentic AI-Readiness Evaluation (http://arxiv.org/abs/2604.26645).",
           "link": "http://arxiv.org/abs/2605.00073",
           "reasoning": "Certification infrastructure advancing: decentralized reputation, Kubernetes identity/governance, and AI-readiness evaluation."
+        },
+        {
+          "date": "2026-05-03",
+          "content": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows (http://arxiv.org/abs/2604.28139v1) - Live-updating benchmark for evaluating agent capabilities in real-world workflows. Also: What Makes a Good Terminal-Agent Benchmark Task (http://arxiv.org/abs/2604.28093v1) - guidelines for agent evaluation design.",
+          "link": "http://arxiv.org/abs/2604.28139v1",
+          "reasoning": "Benchmark evolution toward certification-style evaluation of agent capabilities in dynamic real-world settings."
         },
         {
           "date": "2026-05-02",
@@ -486,18 +558,6 @@
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) - benchmark-based agent performance evaluation.",
           "link": "https://arxiv.org/abs/2604.25914v1",
           "reasoning": "Benchmarking and performance standard research."
-        },
-        {
-          "date": "2026-05-03",
-          "content": "Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows (http://arxiv.org/abs/2604.28139v1) - Live-updating benchmark for evaluating agent capabilities in real-world workflows. Also: What Makes a Good Terminal-Agent Benchmark Task (http://arxiv.org/abs/2604.28093v1) - guidelines for agent evaluation design.",
-          "link": "http://arxiv.org/abs/2604.28139v1",
-          "reasoning": "Benchmark evolution toward certification-style evaluation of agent capabilities in dynamic real-world settings."
-        },
-        {
-          "date": "2026-05-05",
-          "content": "DataClaw: A Process-Oriented Agent Benchmark for Exploratory Real-World Data Analysis (http://arxiv.org/abs/2605.02503) - benchmark for autonomous data analysis agents. Also: 12 Angry AI Agents: Evaluating Multi-Agent LLM Decision-Making (http://arxiv.org/abs/2605.01986) - novel multi-agent evaluation framework. Also: Claw-Eval-Live: Live Agent Benchmark (http://arxiv.org/abs/2604.28139v2).",
-          "link": "http://arxiv.org/abs/2605.02503",
-          "reasoning": "Agent certification infrastructure expanding: process-oriented data analysis benchmarks, cinematic jury-style multi-agent evaluation, and live-updating benchmarks that track evolving workflows."
         }
       ]
     }
