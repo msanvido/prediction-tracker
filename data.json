@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06 10:00",
+  "last_updated": "2026-05-07 10:00",
   "predictions": [
     {
       "id": 1,
@@ -7,6 +7,12 @@
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-05-07",
+          "content": "LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore) (http://arxiv.org/abs/2605.05187) - first large-scale competition on holistic quality assessment of world-model-generated videos across both 2D and 4D generation settings, addressing the gap that perceptual quality alone is insufficient for world model evaluation. Also: Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout (http://arxiv.org/abs/2605.05092) - driver-centric latent world model forecasting human-in-the-loop behavior during shared-control transitions for L2/L3 driving automation. Also: ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving (http://arxiv.org/abs/2605.04647) - masked discrete diffusion planner with RL-aligned self-editing for autonomous driving world models.",
+          "link": "http://arxiv.org/abs/2605.05187",
+          "reasoning": "New evaluation infrastructure for world model video quality assessment (PhyScore challenge), driver-centric world model for human-in-the-loop autonomy, and RL-aligned discrete diffusion world model for driving -- advancing world model breadth and evaluation rigor."
+        },
         {
           "date": "2026-05-06",
           "content": "A Benchmark for Interactive World Models with a Unified Action Generation Framework (http://arxiv.org/abs/2605.03941) - first large-scale benchmark and unified action generation framework for evaluating interactive world models. Also: RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models (http://arxiv.org/abs/2605.03821) - aligns robot video world models with instruction following and physical plausibility via multimodal reward distillation.",
@@ -64,6 +70,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-07",
+          "content": "ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation (http://arxiv.org/abs/2605.05126) - VLA model addressing spatiotemporal perception and reasoning limitations by integrating 3D perception with 4D temporal reasoning. Also: From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models (http://arxiv.org/abs/2605.04678) - structures the study of latent action supervision across heterogeneous datasets for consistent VLA modeling. Also: When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning (http://arxiv.org/abs/2605.05172) - bridges behavior cloning to online RL without reward engineering.",
+          "link": "http://arxiv.org/abs/2605.05126",
+          "reasoning": "VLA momentum continues with ConsisVLA-4D adding 3D-aware spatiotemporal reasoning to VLAs, latent action supervision systematizing heterogeneous VLA training, and a new bridge from behavior cloning to online RL for action models."
+        },
+        {
           "date": "2026-05-06",
           "content": "RLDX-1 Technical Report (http://arxiv.org/abs/2605.03269) - addresses VLA generalization challenges through task decomposition, enabling generalist robotic policies to handle diverse manipulation tasks with improved robustness.",
           "link": "http://arxiv.org/abs/2605.03269",
@@ -119,6 +131,12 @@
       "description": "Agents continuously learning by observing and copying other agents.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-07",
+          "content": "Graph-SND: Sparse Aggregation for Behavioral Diversity in Multi-Agent Reinforcement Learning (http://arxiv.org/abs/2605.05020) - replaces quadratic pairwise distance computation with weighted sparse aggregation for behavioral diversity in multi-agent RL, enabling scalable distributed agent teams. Also: SensingAgents: A Multi-Agent Collaborative Framework for Robust IMU Activity Recognition (http://arxiv.org/abs/2605.04608) - multi-agent collaborative framework for sensor-based activity recognition. Also: Self-Induced Outcome Potential: Turn-Level Credit Assignment for Agents without Verifiers (http://arxiv.org/abs/2605.04984) - enables distributed credit assignment in long-horizon LLM agents without process-level human annotation.",
+          "link": "http://arxiv.org/abs/2605.05020",
+          "reasoning": "Distributed learning advances through scalable multi-agent RL diversity metrics, collaborative sensor agent frameworks, and turn-level credit assignment that removes the need for human-annotated process rewards -- all enabling agents to learn from distributed interactions."
+        },
         {
           "date": "2026-05-06",
           "content": "Mechanical Conscience: A Mathematical Framework for Dependability of Machine Intelligence (http://arxiv.org/abs/2605.03847) - formal framework for dependability in distributed collaborative intelligence (DCI) systems. Also: Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design (http://arxiv.org/abs/2605.00931) - rethinks hierarchy in federated learning as a fundamental distributed optimization structure.",
@@ -176,6 +194,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-07",
+          "content": "A Closed-Form Dual-Barrier CBF Safety Filter for Holonomic Robots on Incrementally Built Occupancy Grid Maps (http://arxiv.org/abs/2605.05182) - control barrier function (CBF) safety filter for real-time safety-critical robot control in unknown environments, merging control theory with RL-based planning. Also: InterFuserDVS: Event-Enhanced Sensor Fusion for Safe RL-Based Decision Making (http://arxiv.org/abs/2605.04355) - event-enhanced sensor fusion using Dynamic Vision Sensors for safe RL in autonomous driving. Also: AgentTrust: Runtime Safety Evaluation and Interception for AI Agent Tool Use (http://arxiv.org/abs/2605.04785) - formal runtime safety evaluation for AI agent tool calls.",
+          "link": "http://arxiv.org/abs/2605.05182",
+          "reasoning": "Direct convergence of control theory (CBF safety filters) and RL for safe autonomous systems, plus formal runtime safety verification for AI agents -- strong evidence for the AI-control-formal methods convergence prediction."
+        },
+        {
           "date": "2026-05-06",
           "content": "Lyapunov-Guided Self-Alignment: Test-Time Adaptation for Offline Safe Reinforcement Learning (http://arxiv.org/abs/2604.26516) - uses Lyapunov functions (control theory) to guide safe self-alignment in offline RL at test time. Also: Model-Based Proactive Cost Generation for Learning Safe Policies Offline with Limited Violation Data (http://arxiv.org/abs/2605.01356) - model-based safety cost generation for offline RL in safety-critical domains.",
           "link": "http://arxiv.org/abs/2604.26516",
@@ -231,6 +255,12 @@
       "description": "Handled by prompt compilers and optimizers (desired-state programming).",
       "score": 5,
       "updates": [
+        {
+          "date": "2026-05-07",
+          "content": "LCM: Lossless Context Management (http://arxiv.org/abs/2605.04050) - deterministic architecture for LLM memory using recursive context compression and task partitioning, outperforming Claude Code on long-context tasks while abstracting away all manual context/prompt management. Also: LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents (http://arxiv.org/abs/2605.05191) - adaptive context management that automatically orchestrates growing working context. Also: Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation (http://arxiv.org/abs/2605.05007) - jointly optimizes decomposition depth, worker choice, and inference budget, abstracting away manual agent orchestration.",
+          "link": "http://arxiv.org/abs/2605.04050",
+          "reasoning": "Lossless Context Management provides automatic lossless context compression outperforming frontier coding agents, elastic context orchestration automates search agent memory management, and parsimonious routing eliminates hand-engineered agent orchestration."
+        },
         {
           "date": "2026-05-06",
           "content": "Reinforced Agent: Inference-Time Feedback for Tool-Calling Agents (http://arxiv.org/abs/2604.27233) - replaces prompt tuning with inference-time feedback, eliminating manual prompt engineering for tool-calling agents. Also: Learning Evidence Highlighting for Frozen LLMs (http://arxiv.org/abs/2604.22565) - automatically optimizes how context is presented to frozen LLMs, abstracting away evidence selection from reasoning.",
@@ -288,6 +318,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-07",
+          "content": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours (http://arxiv.org/abs/2605.05170) - LLM agent autonomously designs and builds a hardware inference accelerator, demonstrating agent-as-distribution for complex hardware design. Also: OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents (http://arxiv.org/abs/2605.05185) - open recipe for reproducible multimodal search agents, enabling distribution of agent capabilities as recipes. Also: DAO-Enabled Decentralized Physical AI: A New Paradigm for Human-Machine Collaboration (http://arxiv.org/abs/2605.04522) - decentralized autonomous organization framework for coordinating humans and autonomous machines in physical-digital systems.",
+          "link": "http://arxiv.org/abs/2605.05170",
+          "reasoning": "New distribution mechanisms: agent-designed hardware accelerators replace traditional software distribution, open recipes enable agent capability distribution, and DAO-based decentralized physical AI creates a new paradigm for coordinating autonomous systems at scale."
+        },
+        {
           "date": "2026-05-06",
           "content": "Scalable Inference Architectures for Compound AI Systems: A Production Deployment Study (http://arxiv.org/abs/2604.25724) - production deployment study of compound AI systems that compose models, retrievers, and tools, enabling on-demand AI application delivery. Also: Think Before You Act -- A Neurocognitive Governance Model for Autonomous AI Agents (http://arxiv.org/abs/2604.25684) - governance model enabling safe real-world deployment of autonomous agents.",
           "link": "http://arxiv.org/abs/2604.25724",
@@ -343,6 +379,12 @@
       "description": "Git evolving to version agent interactions and records of intent.",
       "score": 1,
       "updates": [
+        {
+          "date": "2026-05-07",
+          "content": "Evolving Idea Graphs with Learnable Edits-and-Commits for Multi-Agent Scientific Ideation (http://arxiv.org/abs/2605.04922) - multi-agent system using edits-and-commits (version control for ideas rather than code) to evolve research ideas through graph-structured collaboration with persistent revision history. Also: Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games (http://arxiv.org/abs/2605.04906) - reinforces strategic reasoning in multi-agent game-theoretic settings. Also: ARMATA: Auto-Regressive Multi-Agent Task Assignment (http://arxiv.org/abs/2605.04225) - auto-regressive task allocation for multi-agent coordination over spatially distributed areas.",
+          "link": "http://arxiv.org/abs/2605.04922",
+          "reasoning": "Direct evidence: Evolving Idea Graphs explicitly uses Git-like edits-and-commits for multi-agent ideation, treating idea evolution as version-controlled collaboration. Strat-Reasoner and ARMATA extend multi-agent collaboration beyond code to strategic games and spatial task coordination."
+        },
         {
           "date": "2026-05-06",
           "content": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration (http://arxiv.org/abs/2605.03042) - open-source research harness enabling autonomous scientific discovery through adversarial multi-agent collaboration. Also: PrismAgent: Illuminating Harm in Memes via a Zero-Shot Interpretable Multi-Agent Framework (http://arxiv.org/abs/2605.02940) - multi-agent collaboration for content moderation without training.",
@@ -400,6 +442,12 @@
       "score": 6,
       "updates": [
         {
+          "date": "2026-05-07",
+          "content": "Intermediate Representations are Strong AI-Generated Image Detectors (http://arxiv.org/abs/2605.04358) - training-free AI-generated image detection using intermediate representations of pretrained models. Also: Detecting Deepfakes via Hamiltonian Dynamics (http://arxiv.org/abs/2605.04405) - physics-based deepfake detection using Hamiltonian dynamics to break the cycle of adversarial detector recalibration. Also: Curated AI beats frontier LLMs at pharma asset discovery (http://arxiv.org/abs/2605.04908) - demonstrates curated specialized AI platforms outperform general frontier LLMs for domain-specific knowledge tasks.",
+          "link": "http://arxiv.org/abs/2605.04358",
+          "reasoning": "Training-free AI image detection and physics-based deepfake detection both raise the bar against AI-generated slop. The curated AI paper adds a new dimension: specialized curated data beats general frontier models, validating that differentiation shifts toward quality and domain expertise."
+        },
+        {
           "date": "2026-05-06",
           "content": "GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment (http://arxiv.org/abs/2604.25370) - first published dataset analyzing real-world AI-generated images from GPT-Image-2 deployment. Also: IncreFA: Breaking the Static Wall of Generative Model Attribution (http://arxiv.org/abs/2604.17736) - dynamic attribution framework that keeps pace with rapidly evolving generative models.",
           "link": "http://arxiv.org/abs/2604.25370",
@@ -456,6 +504,12 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-07",
+          "content": "ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation (http://arxiv.org/abs/2605.05126) - 3D/4D perception-reasoning for robotic manipulation bridging digital VLA intelligence to physical interaction. Also: From Pixels to Tokens: A Systematic Study of Latent Action Supervision for VLA Models (http://arxiv.org/abs/2605.04678) - enables consistent VLA modeling across robot datasets. Also: From Reach to Insert: Tactile-Augmented Precision Assembly under Sub-Millimeter Tolerances (http://arxiv.org/abs/2605.04649) - tactile-augmented precision combining imitation learning with RL for sub-millimeter insertions. Also: Position: Embodied AI Requires a Privacy-Utility Trade-off (http://arxiv.org/abs/2605.05017) - addresses privacy implications of embodied AI moving into real homes.",
+          "link": "http://arxiv.org/abs/2605.05126",
+          "reasoning": "Intelligence moving to physical through: 3D/4D reasoning for robotic VLA manipulation, tactile-augmented precision assembly at sub-millimeter tolerances, latent action supervision enabling consistent robot learning, and privacy-aware embodied AI deployment."
+        },
+        {
           "date": "2026-05-06",
           "content": "GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning (http://arxiv.org/abs/2604.25459) - massively parallel photorealistic simulator enabling vision-informed robot policy learning at scale. Also: PhysCodeBench: Benchmarking Physics-Aware Symbolic Simulation of 3D Scenes via Self-Corrective Multi-Agent Refinement (http://arxiv.org/abs/2604.23580) - benchmarks physics-aware symbolic simulation translating natural language into executable 3D simulations.",
           "link": "http://arxiv.org/abs/2604.25459",
@@ -511,6 +565,12 @@
       "description": "Human-level certifications for agents replacing knowledge workers.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-07",
+          "content": "Agent Island: A Saturation- and Contamination-Resistant Benchmark from Multiagent Games (http://arxiv.org/abs/2605.04312) - multiplayer simulation benchmark resistant to saturation and contamination for evaluating multi-agent LLM capabilities. Also: AgentTrust: Runtime Safety Evaluation and Interception for AI Agent Tool Use (http://arxiv.org/abs/2605.04785) - runtime safety system intercepting unsafe agent tool calls. Also: DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents (http://arxiv.org/abs/2605.04808) - interactive red-teaming platform for AI agent security evaluation. Also: AuditRepairBench: A Paired-Execution Trace Corpus for Evaluator-Channel Ranking Instability in Agent Repair (http://arxiv.org/abs/2605.04624) - exposes leaderboard instability in agent repair evaluation. Also: Deployment-Relevant Alignment Cannot Be Inferred from Model-Level Evaluation Alone (http://arxiv.org/abs/2605.04454) - argues agent certification requires deployment-level evaluation.",
+          "link": "http://arxiv.org/abs/2605.04312",
+          "reasoning": "Massive expansion of agent certification infrastructure: contamination-resistant benchmarks, runtime safety evaluation and interception, interactive red-teaming platforms, audit tools for benchmark integrity, and a critical position paper arguing model-level evaluation is insufficient for deployment certification."
+        },
         {
           "date": "2026-05-06",
           "content": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation (http://arxiv.org/abs/2605.03986) - automated agent workflow composition and recommendation, certifying agent selection for user intents. Also: Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies (http://arxiv.org/abs/2605.03596) - benchmarks agents on complex workspace tasks with heterogeneous file dependencies. Also: AcademiClaw: When Students Set Challenges for AI Agents (http://arxiv.org/abs/2605.02661) - academic-level benchmark authored by university students for evaluating sophisticated agent capabilities.",
