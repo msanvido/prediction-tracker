@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07 10:00",
+  "last_updated": "2026-05-08 10:00",
   "predictions": [
     {
       "id": 1,
@@ -60,6 +60,12 @@
           "content": "How Fast Should a Model Commit to Supervision? (https://arxiv.org/abs/2604.25907v1) discusses training reasoning models.",
           "link": "https://arxiv.org/abs/2604.25907v1",
           "reasoning": "New research relevant to world models."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning (http://arxiv.org/abs/2605.05951) - Hamiltonian-constrained world model with selective memory for long-horizon planning stability. Also: Executable World Models for ARC-AGI-3 in the Era of Coding Agents (http://arxiv.org/abs/2605.05138) - coding agent system with executable Python world model for ARC-AGI-3 reasoning. Also: PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World (http://arxiv.org/abs/2605.05163) - synthesizes physics-grounded 3D assets for interactive virtual worlds and embodied AI.",
+          "link": "http://arxiv.org/abs/2605.05951",
+          "reasoning": "HaM-World introduces Hamiltonian physical structure with selective memory for planner-facing latents, advancing world model planning stability. Executable world models for ARC coding agents bring world models to interactive reasoning benchmarks. PhysForge bridges world model physics to 3D asset generation for embodied AI."
         }
       ]
     },
@@ -122,6 +128,12 @@
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) explores VLA-related benchmarking.",
           "link": "https://arxiv.org/abs/2604.25914v1",
           "reasoning": "Advancements in agentic benchmarking."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "VLA-GSE: Boosting Parameter-Efficient Fine-Tuning in VLA with Generalized and Specialized Experts (http://arxiv.org/abs/2605.06175) - new PEFT approach for VLA models using generalized and specialized expert routing to prevent overfitting and catastrophic forgetting. Also: DexSim2Real: Foundation Model-Guided Sim-to-Real Transfer for Generalizable Dexterous Manipulation (http://arxiv.org/abs/2605.05241) - sim-to-real transfer for dexterous manipulation using foundation models. Also: Creative Robot Tool Use by Counterfactual Reasoning (http://arxiv.org/abs/2605.05411) - robots discover novel tool use through counterfactual reasoning.",
+          "link": "http://arxiv.org/abs/2605.06175",
+          "reasoning": "VLA momentum continues with architectural innovations for parameter-efficient fine-tuning preventing catastrophic forgetting, sim-to-real transfer enabling practical dexterous manipulation deployment, and counterfactual reasoning expanding VLA capabilities to creative physical tool use."
         }
       ]
     },
@@ -184,6 +196,12 @@
           "content": "Recursive Multi-Agent Systems (https://arxiv.org/abs/2604.25917v1) explores distributed agent learning.",
           "link": "https://arxiv.org/abs/2604.25917v1",
           "reasoning": "Direct research on multi-agent learning."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "SPARK: Self-Play with Asymmetric Reward from Knowledge Graphs (http://arxiv.org/abs/2605.05546) - self-play framework for distributed agent learning using asymmetric reward signals from knowledge graphs. Also: Active Learning for Communication Structure Optimization in LLM-Based Multi-Agent Systems (http://arxiv.org/abs/2605.05703) - optimizes communication topology in distributed LLM agent teams via active learning. Also: Improving the Efficiency of Language Agent Teams with Adaptive Task Graphs (http://arxiv.org/abs/2605.06320) - adaptive task graph construction balancing structured coordination with unstructured exploration in agent teams.",
+          "link": "http://arxiv.org/abs/2605.05546",
+          "reasoning": "Distributed agent team learning advances: self-play with knowledge graph rewards for scalable training, active learning for optimizing communication structures in multi-agent LLM systems, and adaptive task graphs enabling efficient coordination in language agent teams."
         }
       ]
     },
@@ -246,6 +264,12 @@
           "content": "How Fast Should a Model Commit to Supervision? (https://arxiv.org/abs/2604.25907v1) - training stability and supervision.",
           "link": "https://arxiv.org/abs/2604.25907v1",
           "reasoning": "Supervision dynamics in RL training."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "Safety Certification is Classification (http://arxiv.org/abs/2605.06087) - reframes safety certification of dynamical systems under uncertainty as a classification problem, directly merging formal methods with ML-based safety verification. Also: Long-Horizon Q-Learning: Accurate Value Learning via n-Step Inequalities (http://arxiv.org/abs/2605.05812) - theoretical advances connecting long-horizon RL value learning with control-theoretic n-step inequalities for improved convergence.",
+          "link": "http://arxiv.org/abs/2605.06087",
+          "reasoning": "Direct convergence evidence: Safety Certification is Classification bridges formal safety certification and ML classification for dynamical systems under uncertainty. Long-Horizon Q-Learning connects RL value learning with n-step control theory inequalities."
         }
       ]
     },
@@ -308,6 +332,12 @@
           "content": "How Fast Should a Model Commit to Supervision? (https://arxiv.org/abs/2604.25907v1) - implications for training automation.",
           "link": "https://arxiv.org/abs/2604.25907v1",
           "reasoning": "Research related to training efficiency."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration (http://arxiv.org/abs/2605.05566) - automated prompt perturbation for expanding reasoning search space without manual prompt engineering. Also: Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation (http://arxiv.org/abs/2605.05007) - jointly optimizes decomposition depth, worker choice, and inference budget, abstracting away manual agent orchestration. Also: TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering (http://arxiv.org/abs/2605.05980) - automated activation steering reduces reasoning overhead without prompt tuning.",
+          "link": "http://arxiv.org/abs/2605.05566",
+          "reasoning": "Prompt engineering continues to be abstracted away: automated prompt space perturbation for broader exploration, joint optimization of routing and budgets eliminating manual orchestration, and activation steering removing the need for prompt-based behavior tuning."
         }
       ]
     },
@@ -370,6 +400,12 @@
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) - new agent evaluation mechanisms.",
           "link": "https://arxiv.org/abs/2604.25914v1",
           "reasoning": "Advancements in agentic application deployment."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours (http://arxiv.org/abs/2605.05170) - LLM agent autonomously designs and builds a hardware inference accelerator, demonstrating complete agent-as-distribution for complex hardware. Also: OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents (http://arxiv.org/abs/2605.05185) - open reproducible recipe for distributing multimodal search agent capabilities. Also: AlphaCrafter: A Full-Stack Multi-Agent Framework for Cross-Sectional Quantitative Trading (http://arxiv.org/abs/2605.05580) - agent-driven quantitative trading as a distributed service.",
+          "link": "http://arxiv.org/abs/2605.05170",
+          "reasoning": "New distribution mechanisms multiply: agent-designed hardware accelerators replace traditional VLSI distribution, open agent recipes enable capability sharing, and full-stack multi-agent trading frameworks deliver financial AI as a distributed service."
         }
       ]
     },
@@ -432,6 +468,12 @@
           "content": "Recursive Multi-Agent Systems (https://arxiv.org/abs/2604.25917v1) - interactions as fundamental units.",
           "link": "https://arxiv.org/abs/2604.25917v1",
           "reasoning": "Agentic collaboration research."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "From Agent Loops to Deterministic Graphs: Execution Lineage for Reproducible AI-Native Work (http://arxiv.org/abs/2605.06365) - transforms agentic workflows from conversational loops into deterministic, versionable execution graphs with full lineage tracking, superseding traditional code-centric version control. Also: Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games (http://arxiv.org/abs/2605.04906) - multi-agent strategic reasoning in game-theoretic settings. Also: Retrieval-Conditioned Topology Selection with Provable Budget Conservation for Multi-Agent Code Generation (http://arxiv.org/abs/2605.05657) - agent collaboration beyond diff-based code review.",
+          "link": "http://arxiv.org/abs/2605.06365",
+          "reasoning": "Direct evidence: Execution Lineage replaces conversational state with deterministic, versionable graphs for reproducible AI-native work -- exactly the kind of versioning-beyond-code the prediction describes. Multi-agent strategic games and retrieval-conditioned code generation extend collaboration beyond source diffs."
         }
       ]
     },
@@ -494,6 +536,12 @@
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) - focus on data viz benchmark quality.",
           "link": "https://arxiv.org/abs/2604.25914v1",
           "reasoning": "New research focusing on agent evaluation quality."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "Chainwash: Multi-Step Rewriting Attacks on Diffusion Language Model Watermarks (http://arxiv.org/abs/2605.05503) - exposes new vulnerability class in diffusion LM watermarks, showing the adversarial arms race in AI-generated content authentication. Also: Safety-Critical Camera Reliability Monitoring for ADAS via Degradation-Aware Uncertainty Pattern Analysis (http://arxiv.org/abs/2605.05439) - reliability monitoring for safety-critical AI perception, raising the bar for production AI quality.",
+          "link": "http://arxiv.org/abs/2605.05503",
+          "reasoning": "The watermark arms race continues: Chainwash exposes that diffusion LM watermarks can be rewritten away, driving the need for more robust authentication. Safety-critical reliability monitoring for ADAS cameras raises the bar for production AI system quality assessment."
         }
       ]
     },
@@ -556,6 +604,12 @@
           "content": "Recursive Multi-Agent Systems (https://arxiv.org/abs/2604.25917v1) - relevance to system-level physical automation.",
           "link": "https://arxiv.org/abs/2604.25917v1",
           "reasoning": "System architecture research."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "VLA-GSE: Boosting PEFT in VLA with Generalized and Specialized Experts (http://arxiv.org/abs/2605.06175) - parameter-efficient fine-tuning enabling more practical VLA deployment on physical robots. Also: DexSim2Real: Foundation Model-Guided Sim-to-Real Transfer for Generalizable Dexterous Manipulation (http://arxiv.org/abs/2605.05241) - bridges simulation to real dexterous manipulation. Also: Creative Robot Tool Use by Counterfactual Reasoning (http://arxiv.org/abs/2605.05411) - robot tool innovation through counterfactuals. Also: DexSynRefine: Synthesizing and Refining Human-Object Interaction Motion for Physically Feasible Dexterous Robot Actions (http://arxiv.org/abs/2605.05925) - physio-motion synthesis for dexterous manipulation.",
+          "link": "http://arxiv.org/abs/2605.06175",
+          "reasoning": "Intelligence moving to physical through: efficient VLA fine-tuning for practical robot deployment, foundation model transfer enabling dexterous real-world manipulation, counterfactual reasoning for creative physical tool use, and physically feasible motion synthesis for dexterous robot actions."
         }
       ]
     },
@@ -618,6 +672,12 @@
           "content": "DV-World: Benchmarking Data Visualization Agents (https://arxiv.org/abs/2604.25914v1) - benchmark-based agent performance evaluation.",
           "link": "https://arxiv.org/abs/2604.25914v1",
           "reasoning": "Benchmarking and performance standard research."
+        },
+        {
+          "date": "2026-05-08",
+          "content": "Safety Certification is Classification (http://arxiv.org/abs/2605.06087) - reframes safety certification of dynamical systems as classification, directly relevant to agent certification. Also: Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems (http://arxiv.org/abs/2605.05379) - benchmarks agents under authorization constraints. Also: Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure (http://arxiv.org/abs/2605.05440) - identity and authorization governance for multi-agent systems. Also: Deployment-Relevant Alignment Cannot Be Inferred from Model-Level Evaluation Alone (http://arxiv.org/abs/2605.04454) - argues agent certification requires deployment-level evaluation.",
+          "link": "http://arxiv.org/abs/2605.06087",
+          "reasoning": "Agent certification infrastructure expands rapidly: classification-based safety certification, authorization-limited benchmark evaluation, identity governance as foundational infrastructure for multi-agent systems, and a critical argument that deployment-level evaluation is necessary for agent certification."
         }
       ]
     }
