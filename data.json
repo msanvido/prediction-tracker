@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08 10:00",
+  "last_updated": "2026-05-09 10:00",
   "predictions": [
     {
       "id": 1,
@@ -7,6 +7,24 @@
       "description": "Mainstream breakthrough for world models beyond synthetic demos.",
       "score": 3,
       "updates": [
+        {
+          "date": "2026-05-09",
+          "content": "RobotEQ: Transitioning from Passive Intelligence to Active Intelligence in Embodied AI (http://arxiv.org/abs/2605.06234) - framework bridging passive perception and active world interaction for embodied AI, directly advancing world model capabilities for physical intelligence.",
+          "link": "http://arxiv.org/abs/2605.06234",
+          "reasoning": "Advances embodied world models by transitioning from passive sensing to active world interaction, bringing world models closer to practical ChatGPT-level deployment."
+        },
+        {
+          "date": "2026-05-09",
+          "content": "CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models (http://arxiv.org/abs/2605.06247) - enables efficient transfer of context knowledge between world action models, allowing WAMs to share learned skills and scene understanding across different robotic platforms.",
+          "link": "http://arxiv.org/abs/2605.06247",
+          "reasoning": "Enables knowledge sharing across world models, addressing scalability and generalization challenges toward a ChatGPT moment for world models."
+        },
+        {
+          "date": "2026-05-09",
+          "content": "When to Trust Imagination: Adaptive Action Execution for World Action Models (http://arxiv.org/abs/2605.06222) - World Action Model that adaptively decides when to re-query the model vs execute predicted actions, addressing the fundamental trust gap in WAM-based robotic manipulation.",
+          "link": "http://arxiv.org/abs/2605.06222",
+          "reasoning": "Advances world model deployment in robotics by introducing adaptive execution frequency for WAM inference, addressing a key practical limitation on the path to a ChatGPT-level world model breakthrough."
+        },
         {
           "date": "2026-05-07",
           "content": "LoViF 2026 The First Challenge on Holistic Quality Assessment for 4D World Model (PhyScore) (http://arxiv.org/abs/2605.05187) - first large-scale competition on holistic quality assessment of world-model-generated videos across both 2D and 4D generation settings, addressing the gap that perceptual quality alone is insufficient for world model evaluation. Also: Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout (http://arxiv.org/abs/2605.05092) - driver-centric latent world model forecasting human-in-the-loop behavior during shared-control transitions for L2/L3 driving automation. Also: ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving (http://arxiv.org/abs/2605.04647) - masked discrete diffusion planner with RL-aligned self-editing for autonomous driving world models.",
@@ -76,6 +94,12 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-09",
+          "content": "When to Trust Imagination: Adaptive Action Execution for World Action Models (http://arxiv.org/abs/2605.06222) - adaptive execution for WAMs in visual-motor control, advancing VLA-based robotic manipulation. Also: CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models (http://arxiv.org/abs/2605.06247) - enables WAM skill transfer across robotic platforms, directly relevant to VLA generalization.",
+          "link": "http://arxiv.org/abs/2605.06222",
+          "reasoning": "VLA-adjacent advances: adaptive action execution enables more reliable WAMs for VLA-style manipulation and knowledge transfer between action models addresses a key VLA generalization bottleneck."
+        },
+        {
           "date": "2026-05-07",
           "content": "ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation (http://arxiv.org/abs/2605.05126) - VLA model addressing spatiotemporal perception and reasoning limitations by integrating 3D perception with 4D temporal reasoning. Also: From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models (http://arxiv.org/abs/2605.04678) - structures the study of latent action supervision across heterogeneous datasets for consistent VLA modeling. Also: When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning (http://arxiv.org/abs/2605.05172) - bridges behavior cloning to online RL without reward engineering.",
           "link": "http://arxiv.org/abs/2605.05126",
@@ -143,6 +167,18 @@
       "description": "Agents continuously learning by observing and copying other agents.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-09",
+          "content": "Sustaining Cooperation in Populations Guided by AI: A Folk Theorem for LLMs (http://arxiv.org/abs/2605.06525) - formalizes how cooperation can be sustained in populations of LLM agents using folk theorem-style incentives. Also: Active Learning for Communication Structure Optimization in LLM-Based Multi-Agent Systems (http://arxiv.org/abs/2605.05703) - agents actively learning optimal communication topologies.",
+          "link": "http://arxiv.org/abs/2605.06525",
+          "reasoning": "Distributed learning advances: formal cooperation guarantees for populations of AI agents and autonomous communication topology optimization \u2014 both enabling agents to learn from distributed interactions at scale."
+        },
+        {
+          "date": "2026-05-09",
+          "content": "Recursive Agent Optimization (http://arxiv.org/abs/2605.06639) - RL approach for training recursive agents that spawn and delegate subtasks to new instantiations of themselves, implementing inference-time scaling through distributed agent self-replication. Also: Coordination Matters: Evaluation of Cooperative Multi-Agent Reinforcement Learning (http://arxiv.org/abs/2605.06557) - reveals that coordination metrics predict MARL performance better than aggregate returns.",
+          "link": "http://arxiv.org/abs/2605.06639",
+          "reasoning": "Distributed learning through recursive self-specializing agents that scale at inference time, plus new coordination-based evaluation for cooperative MARL \u2014 advancing the distributed learning paradigm."
+        },
         {
           "date": "2026-05-07",
           "content": "Graph-SND: Sparse Aggregation for Behavioral Diversity in Multi-Agent Reinforcement Learning (http://arxiv.org/abs/2605.05020) - replaces quadratic pairwise distance computation with weighted sparse aggregation for behavioral diversity in multi-agent RL, enabling scalable distributed agent teams. Also: SensingAgents: A Multi-Agent Collaborative Framework for Robust IMU Activity Recognition (http://arxiv.org/abs/2605.04608) - multi-agent collaborative framework for sensor-based activity recognition. Also: Self-Induced Outcome Potential: Turn-Level Credit Assignment for Agents without Verifiers (http://arxiv.org/abs/2605.04984) - enables distributed credit assignment in long-horizon LLM agents without process-level human annotation.",
@@ -212,6 +248,18 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-09",
+          "content": "Multiagent Stochastic Shortest Path Problem (http://arxiv.org/abs/2605.06056) - formal framework extending stochastic shortest path problems to multi-agent settings, bridging control theory, formal verification, and multi-agent RL. Also: Logic-Regularized Verifier Elicits Reasoning from LLMs (http://arxiv.org/abs/2605.05893) - unsupervised verifier regularized by logical rules for eliciting formal reasoning.",
+          "link": "http://arxiv.org/abs/2605.06056",
+          "reasoning": "Formal methods and control theory merge with AI: multi-agent stochastic control framework with formal guarantees, and logic-regularized verification for LLM reasoning \u2014 advancing the convergence of formal methods and AI."
+        },
+        {
+          "date": "2026-05-09",
+          "content": "Neural Co-state Policies: Structuring Hidden States in Recurrent Reinforcement Learning (http://arxiv.org/abs/2605.05373) - structures RNN hidden states using co-state variables from optimal control theory, directly merging Pontryagin's maximum principle with RL policy learning. Also: LANTERN: LLM-Augmented Neurosymbolic Transfer with Experience-Gated Reasoning Networks (http://arxiv.org/abs/2605.05478) - bridges neurosymbolic reasoning with RL transfer using LLM-augmented automata.",
+          "link": "http://arxiv.org/abs/2605.05373",
+          "reasoning": "Direct convergence: Neural Co-state Policies embed optimal control theory (Pontryagin's co-state equations) directly into neural network architectures for RL, while LANTERN brings formal neurosymbolic methods to RL transfer learning."
+        },
+        {
           "date": "2026-05-07",
           "content": "A Closed-Form Dual-Barrier CBF Safety Filter for Holonomic Robots on Incrementally Built Occupancy Grid Maps (http://arxiv.org/abs/2605.05182) - control barrier function (CBF) safety filter for real-time safety-critical robot control in unknown environments, merging control theory with RL-based planning. Also: InterFuserDVS: Event-Enhanced Sensor Fusion for Safe RL-Based Decision Making (http://arxiv.org/abs/2605.04355) - event-enhanced sensor fusion using Dynamic Vision Sensors for safe RL in autonomous driving. Also: AgentTrust: Runtime Safety Evaluation and Interception for AI Agent Tool Use (http://arxiv.org/abs/2605.04785) - formal runtime safety evaluation for AI agent tool calls.",
           "link": "http://arxiv.org/abs/2605.05182",
@@ -279,6 +327,18 @@
       "description": "Handled by prompt compilers and optimizers (desired-state programming).",
       "score": 5,
       "updates": [
+        {
+          "date": "2026-05-09",
+          "content": "Logic-Regularized Verifier Elicits Reasoning from LLMs (http://arxiv.org/abs/2605.05893) - unsupervised logical verifier replaces hand-crafted prompts for reasoning elicitation. Also: LANTERN: LLM-Augmented Neurosymbolic Transfer for RL (http://arxiv.org/abs/2605.05478) - automated knowledge integration replacing manual task specification in transfer learning.",
+          "link": "http://arxiv.org/abs/2605.05893",
+          "reasoning": "Prompt and supervision engineering continues to be abstracted: unsupervised logical verifiers replace hand-crafted reasoning prompts, and neurosymbolic automation replaces manual transfer task specification."
+        },
+        {
+          "date": "2026-05-09",
+          "content": "Recursive Agent Optimization (http://arxiv.org/abs/2605.06639) - RL approach automating agent spawning and delegation, abstracting away manual orchestration design. Also: Internalizing Outcome Supervision into Process Supervision: A New Paradigm for RL for Reasoning (http://arxiv.org/abs/2605.05226) - automates fine-grained supervision generation, abstracting away human reward engineering.",
+          "link": "http://arxiv.org/abs/2605.06639",
+          "reasoning": "Two abstractions advancing: RAO automates agent structure and delegation decisions, while internalized outcome supervision replaces manual process reward design \u2014 both reducing the need for hand-engineered prompt and supervision pipelines."
+        },
         {
           "date": "2026-05-07",
           "content": "LCM: Lossless Context Management (http://arxiv.org/abs/2605.04050) - deterministic architecture for LLM memory using recursive context compression and task partitioning, outperforming Claude Code on long-context tasks while abstracting away all manual context/prompt management. Also: LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents (http://arxiv.org/abs/2605.05191) - adaptive context management that automatically orchestrates growing working context. Also: Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation (http://arxiv.org/abs/2605.05007) - jointly optimizes decomposition depth, worker choice, and inference budget, abstracting away manual agent orchestration.",
@@ -348,6 +408,18 @@
       "score": 4,
       "updates": [
         {
+          "date": "2026-05-09",
+          "content": "FinRAG-12B: A Production-Validated Recipe for Grounded Question Answering in Banking (http://arxiv.org/abs/2605.05482) - open recipe for production-grade financial RAG, enabling distribution of agent capabilities as reproducible recipes. Also: Agentic Retrieval-Augmented Generation for Financial Document QA (http://arxiv.org/abs/2605.05409) - multi-step agentic RAG for complex financial analysis.",
+          "link": "http://arxiv.org/abs/2605.05482",
+          "reasoning": "Distribution through production-validated recipes and domain-specific agentic RAG pipelines \u2014 shipping agent capabilities as turnkey solutions for enterprise financial applications."
+        },
+        {
+          "date": "2026-05-09",
+          "content": "Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes (http://arxiv.org/abs/2605.05724) - closed-loop system where specialist agents autonomously propose hypotheses, execute code edits, receive evaluator feedback, and iterate training recipes \u2014 a new distribution mechanism for ML research output. Also: AgenticPrecoding: LLM-Empowered Multi-Agent System for Precoding Optimization (http://arxiv.org/abs/2605.06443) - distributed agent system automating wireless precoding optimization.",
+          "link": "http://arxiv.org/abs/2605.05724",
+          "reasoning": "New distribution mechanisms for AI-generated research output (auto-research with audit trails) and multi-agent automation of wireless optimization \u2014 shipping agent capabilities instead of traditional software distribution."
+        },
+        {
           "date": "2026-05-07",
           "content": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours (http://arxiv.org/abs/2605.05170) - LLM agent autonomously designs and builds a hardware inference accelerator, demonstrating agent-as-distribution for complex hardware design. Also: OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents (http://arxiv.org/abs/2605.05185) - open recipe for reproducible multimodal search agents, enabling distribution of agent capabilities as recipes. Also: DAO-Enabled Decentralized Physical AI: A New Paradigm for Human-Machine Collaboration (http://arxiv.org/abs/2605.04522) - decentralized autonomous organization framework for coordinating humans and autonomous machines in physical-digital systems.",
           "link": "http://arxiv.org/abs/2605.05170",
@@ -415,6 +487,18 @@
       "description": "Git evolving to version agent interactions and records of intent.",
       "score": 1,
       "updates": [
+        {
+          "date": "2026-05-09",
+          "content": "Cross-Modal Navigation with Multi-Agent Reinforcement Learning (http://arxiv.org/abs/2605.06595) - multi-agent collaboration across visual, language, and spatial modalities for embodied navigation. Also: Auto Research with Specialist Agents (http://arxiv.org/abs/2605.05724) - autonomous collaborative research where agent teams propose hypotheses and iterate through closed empirical loops.",
+          "link": "http://arxiv.org/abs/2605.06595",
+          "reasoning": "New collaboration paradigms: multi-agent teams coordinate across sensory modalities for navigation, and autonomous researcher agents collaborate on ML training recipe discovery \u2014 collaboration versioning beyond source code."
+        },
+        {
+          "date": "2026-05-09",
+          "content": "From Agent Loops to Deterministic Graphs: Execution Lineage for Reproducible AI-Native Work (http://arxiv.org/abs/2605.06365) - transforms agentic workflows from conversational loops into deterministic, versionable execution graphs with full lineage tracking. Also: Retrieval-Conditioned Topology Selection with Provable Budget Conservation for Multi-Agent Code Generation (http://arxiv.org/abs/2605.05657) - multi-agent code collaboration beyond diff-based review.",
+          "link": "http://arxiv.org/abs/2605.06365",
+          "reasoning": "Direct evidence: execution lineage supersedes code-centric version control with deterministic versionable agent workflow graphs. Retrieval-conditioned topology moves multi-agent code collaboration beyond traditional source diffs."
+        },
         {
           "date": "2026-05-07",
           "content": "Evolving Idea Graphs with Learnable Edits-and-Commits for Multi-Agent Scientific Ideation (http://arxiv.org/abs/2605.04922) - multi-agent system using edits-and-commits (version control for ideas rather than code) to evolve research ideas through graph-structured collaboration with persistent revision history. Also: Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games (http://arxiv.org/abs/2605.04906) - reinforces strategic reasoning in multi-agent game-theoretic settings. Also: ARMATA: Auto-Regressive Multi-Agent Task Assignment (http://arxiv.org/abs/2605.04225) - auto-regressive task allocation for multi-agent coordination over spatially distributed areas.",
@@ -484,6 +568,12 @@
       "score": 6,
       "updates": [
         {
+          "date": "2026-05-09",
+          "content": "Lightweight Stylistic Consistency Profiling: Robust Detection of LLM-Generated Textual Content for Multimedia Moderation (http://arxiv.org/abs/2605.05950) - efficient detection of LLM-generated text through stylistic consistency analysis, enabling real-time content moderation. Also: Counterargument for Critical Thinking as Judged by AI and Humans (http://arxiv.org/abs/2605.05353) - investigates how GenAI affects critical thinking quality in student writing.",
+          "link": "http://arxiv.org/abs/2605.05950",
+          "reasoning": "AI slop detection advances with lightweight stylistic profiling for real-time moderation, while critical thinking research examines how GenAI impacts content quality standards \u2014 both raising the bar against AI-generated slop."
+        },
+        {
           "date": "2026-05-07",
           "content": "Intermediate Representations are Strong AI-Generated Image Detectors (http://arxiv.org/abs/2605.04358) - training-free AI-generated image detection using intermediate representations of pretrained models. Also: Detecting Deepfakes via Hamiltonian Dynamics (http://arxiv.org/abs/2605.04405) - physics-based deepfake detection using Hamiltonian dynamics to break the cycle of adversarial detector recalibration. Also: Curated AI beats frontier LLMs at pharma asset discovery (http://arxiv.org/abs/2605.04908) - demonstrates curated specialized AI platforms outperform general frontier LLMs for domain-specific knowledge tasks.",
           "link": "http://arxiv.org/abs/2605.04358",
@@ -552,6 +642,18 @@
       "score": 3,
       "updates": [
         {
+          "date": "2026-05-09",
+          "content": "Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation (http://arxiv.org/abs/2605.05960) - training-free navigation framework using diffusion for universal goal-oriented robot navigation. Also: AssistDLO: Assistive Teleoperation for Deformable Linear Object Manipulation (http://arxiv.org/abs/2605.06323) - assistive robot manipulation for deformable objects in physical environments.",
+          "link": "http://arxiv.org/abs/2605.05960",
+          "reasoning": "Intelligence moving to physical through: training-free navigation enabling zero-shot robot deployment and assistive teleoperation for complex physical object manipulation."
+        },
+        {
+          "date": "2026-05-09",
+          "content": "RobotEQ: Transitioning from Passive Intelligence to Active Intelligence in Embodied AI (http://arxiv.org/abs/2605.06234) - framework transitioning embodied AI from passive perception to active physical world interaction. Also: CKT-WAM: Parameter-Efficient Context Knowledge Transfer Between World Action Models (http://arxiv.org/abs/2605.06247) - efficient WAM skill transfer for physical robots.",
+          "link": "http://arxiv.org/abs/2605.06234",
+          "reasoning": "Intelligence moving to physical through: active embodied AI interaction framework, and efficient world action model transfer enabling practical robot skill deployment across platforms."
+        },
+        {
           "date": "2026-05-07",
           "content": "ConsisVLA-4D: Advancing Spatiotemporal Consistency in Efficient 3D-Perception and 4D-Reasoning for Robotic Manipulation (http://arxiv.org/abs/2605.05126) - 3D/4D perception-reasoning for robotic manipulation bridging digital VLA intelligence to physical interaction. Also: From Pixels to Tokens: A Systematic Study of Latent Action Supervision for VLA Models (http://arxiv.org/abs/2605.04678) - enables consistent VLA modeling across robot datasets. Also: From Reach to Insert: Tactile-Augmented Precision Assembly under Sub-Millimeter Tolerances (http://arxiv.org/abs/2605.04649) - tactile-augmented precision combining imitation learning with RL for sub-millimeter insertions. Also: Position: Embodied AI Requires a Privacy-Utility Trade-off (http://arxiv.org/abs/2605.05017) - addresses privacy implications of embodied AI moving into real homes.",
           "link": "http://arxiv.org/abs/2605.05126",
@@ -619,6 +721,18 @@
       "description": "Human-level certifications for agents replacing knowledge workers.",
       "score": 2,
       "updates": [
+        {
+          "date": "2026-05-09",
+          "content": "Coordination Matters: Evaluation of Cooperative Multi-Agent RL (http://arxiv.org/abs/2605.06557) - reveals that coordination-specific metrics predict agent team performance better than aggregate returns, advancing MARL certification methodology. Also: Agentic Retrieval-Augmented Generation for Financial Document QA (http://arxiv.org/abs/2605.05409) - benchmarks agentic RAG systems on complex financial reasoning tasks.",
+          "link": "http://arxiv.org/abs/2605.06557",
+          "reasoning": "Certification infrastructure expands: coordination metrics for evaluating multi-agent team performance and domain-specific agentic RAG benchmarks for financial certification."
+        },
+        {
+          "date": "2026-05-09",
+          "content": "Intentionality is a Design Decision: Measuring Functional Intentionality for Accountable AI Systems (http://arxiv.org/abs/2605.05475) - proposes standardized metrics to measure functional intentionality in autonomous AI systems for governance and accountability certification. Also: FinRAG-12B: A Production-Validated Recipe (http://arxiv.org/abs/2605.05482) - validated production recipe as a certification template for domain-specific AI agents.",
+          "link": "http://arxiv.org/abs/2605.05475",
+          "reasoning": "Agent certification advances with standardized intentionality metrics for accountability and production-validated recipes that serve as de facto certification templates for domain agent deployment."
+        },
         {
           "date": "2026-05-07",
           "content": "Agent Island: A Saturation- and Contamination-Resistant Benchmark from Multiagent Games (http://arxiv.org/abs/2605.04312) - multiplayer simulation benchmark resistant to saturation and contamination for evaluating multi-agent LLM capabilities. Also: AgentTrust: Runtime Safety Evaluation and Interception for AI Agent Tool Use (http://arxiv.org/abs/2605.04785) - runtime safety system intercepting unsafe agent tool calls. Also: DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents (http://arxiv.org/abs/2605.04808) - interactive red-teaming platform for AI agent security evaluation. Also: AuditRepairBench: A Paired-Execution Trace Corpus for Evaluator-Channel Ranking Instability in Agent Repair (http://arxiv.org/abs/2605.04624) - exposes leaderboard instability in agent repair evaluation. Also: Deployment-Relevant Alignment Cannot Be Inferred from Model-Level Evaluation Alone (http://arxiv.org/abs/2605.04454) - argues agent certification requires deployment-level evaluation.",
